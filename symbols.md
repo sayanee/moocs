@@ -1,6 +1,6 @@
 # New symbols
 
-1. Electronics Schematic Editor
+1. Eeschema - Electronics Schematic Editor
 
   ![](img/symbol-worksheet-layout-editor.png)
 - Schematic Library Editor

@@ -8,6 +8,7 @@
 - [Create library](library.md)
 - [Create component](component.md)
 - [Create schematic](schematic.md)
+- [Create footprint](footprint.md)
 
 ## Credit
 

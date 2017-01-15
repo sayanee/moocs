@@ -67,3 +67,23 @@
   ![](img/read-current-netlist.png)
 
   ![](img/generated-pcb.png)
+- Select footprint mode
+
+  ![](img/select-footprint-mode.png)
+- Spread out all footprints
+
+  ![](img/spread-footprint.png)
+- Press `m` to move components
+- Press `f` to flip to the backside of the PCB
+- Right click to select bigger grid
+
+  ![](img/select-grid.png)
+- Press `space` to set the `(0,0)` point on the PCB
+
+  ![](img/zero-zero.png)
+- Change to edge cuts layer
+
+  ![](img/edge-cuts.png)
+- Select graphic line tool
+
+  ![](img/graphic-line-tool.png)
