@@ -9,6 +9,7 @@
 - [Create component](component.md)
 - [Create schematic](schematic.md)
 - [Create footprint](footprint.md)
+- [Create Gerber files](gerber.md)
 
 ## Credit
 
