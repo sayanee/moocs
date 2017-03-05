@@ -6,7 +6,7 @@
 - Click `Select working library` in the menu bar
 
   ![](img/select-working-library.png)
-- Select `device` in the list of libraries
+- Select `device` in the list of libraries. Click `OK`.
 
   ![](img/select-library.png)
 - Click `load component to edit from the current library`
