@@ -2,7 +2,7 @@
 
 1. Eeschema - Electronics Schematic Editor
 
-  ![](img/symbol-worksheet-layout-editor.png)
+  ![](img/symbol-schematic-editor.png)
 - Schematic Library Editor
 
   ![](img/symbol-schematic-library-editor.png)
