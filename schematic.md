@@ -19,7 +19,7 @@
 
 1. Open schematic editor
 
-  ![](img/symbol-schematic-editor.pngg)
+  ![](img/symbol-schematic-editor.png)
 - Press `a` to `add component`
 
   ![](img/find-component.png)
