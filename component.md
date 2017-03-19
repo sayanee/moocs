@@ -1,4 +1,4 @@
-## Create component
+# Create component
 
 1. Load the new library
 1. Click `Create new component`
