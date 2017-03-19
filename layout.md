@@ -9,8 +9,11 @@
 1. Connecting vias
 1. Creating Silk Screen
 
-### 1. Generate PCB
+## 1. Generate PCB
 
+1. Open PCBNew from [Schematic viewer](schematic.md)
+
+    ![](img/run-pcbnew.png)
 1. Generate PCB
 
     ![](img/read-current-netlist.png)
@@ -37,7 +40,7 @@
 
     ![](img/graphic-line-tool.png)
 
-### 2. Check design rules
+## 2. Check design rules
 
 1. Check design rules
 
@@ -48,7 +51,7 @@
 
     ![](img/track-via-sizes.png)
 
-### 3. Add tracks and vias
+## 3. Add tracks and vias
 
 1. Add track by choosing the upper copper layer
 
@@ -57,7 +60,7 @@
 
     ![](img/add-tracks-vias.png)
 
-### 4. Fill zones
+## 4. Fill zones
 
 1. Click `fill zones`
 
@@ -72,13 +75,13 @@
 
     ![](img/fill-or-refill-zones.png)
 
-### 5. Connecting via
+## 5. Connecting via
 
 1. Click `v` to drop a via
 1. Double click to finish
 1. Hit `b` to redraw
 
-### 6. Creating Silk Screen
+## 6. Creating Silk Screen
 
 1. Choose silk screen layer
 

@@ -8,10 +8,7 @@
 1. Generate net list
 1. Associate component with footprint
 
-
-## Editing schematic
-
-### 1. Add components
+## 1. Add components
 
 1. Open schematic editor
 
@@ -32,14 +29,14 @@
 
     ![](img/edit-value.png)
 
-### 2. Annotate
+## 2. Annotate
 
 1. Click `annotate` to annotate the schematic
 1. Choose the annotation options
 
     ![](img/annotate-schematic-options.png)
 
-### 3. Perform electrical rules check
+## 3. Perform electrical rules check
 
 1. Click `Perform electrical rules checks`
 
@@ -48,7 +45,7 @@
 
     ![](img/electrical-checks.png)
 
-### 4. Generate net list
+## 4. Generate net list
 
 1. Click `generate net list` in the menu
 
@@ -57,7 +54,7 @@
 
     ![](img/netlist-dialog.png)
 
-### 5. Associate component with footprint
+## 5. Associate component with footprint
 
 1. Click `run CvPCB to associate components and footprint`
 
