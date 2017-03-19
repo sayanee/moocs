@@ -2,41 +2,41 @@
 
 1. Click `foot print editor`
 
-  ![](img/symbol-pcb-footprint-editor.png)
-- Click `New footprint`
+    ![](img/symbol-pcb-footprint-editor.png)
+1. Click `New footprint`
 
-  ![](img/new-footprint.png)
-- Save footprint in new library
+    ![](img/new-footprint.png)
+1. Save footprint in new library
 
-  ![](img/save-footprint.png)
-- Select footprint folder
+    ![](img/save-footprint.png)
+1. Select footprint folder
 
-  ![](img/select-footprint-folder.png)
-- Select footprint wizard
+    ![](img/select-footprint-folder.png)
+1. Select footprint wizard
 
-  ![](img/footprint-wizard.png)
-- Choose footprint library folder
+    ![](img/footprint-wizard.png)
+1. Choose footprint library folder
 
-  ![](img/choose-footprint-lib-folder.png)
-- Add library to current project
+    ![](img/choose-footprint-lib-folder.png)
+1. Add library to current project
 
-  ![](img/add-current-project.png)
-- Select active library
+    ![](img/add-current-project.png)
+1. Select active library
 
-  ![](img/select-active-library.png)
-- Select library footprint
+    ![](img/select-active-library.png)
+1. Select library footprint
 
-  ![](img/select-library-footprint.png)
-- Ensure the footprint is part of active library
+    ![](img/select-library-footprint.png)
+1. Ensure the footprint is part of active library
 
-  ![](img/active-library.png)
-- Add pads
+    ![](img/active-library.png)
+1. Add pads
 
-  ![](img/add-pads.png)
-- Press `e` to edit the pad
+    ![](img/add-pads.png)
+1. Press `e` to edit the pad
 
-  ![](img/edit-pad.png)
-- Add polygon
+    ![](img/edit-pad.png)
+1. Add polygon
 
-  ![](img/add-polygon.png)
-- Save
+    ![](img/add-polygon.png)
+1. Save
