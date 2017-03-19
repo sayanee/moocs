@@ -9,7 +9,7 @@
 1. Connecting vias
 1. Creating Silk Screen
 
-###1. Generate PCB
+### 1. Generate PCB
 
 1. Generate PCB
 

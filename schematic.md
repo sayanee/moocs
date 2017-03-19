@@ -72,3 +72,12 @@
 1. Read netlist in layout PCB
 
     ![](img/read-netlist.png)
+1. Click `Generate`
+
+    ![](img/generate-netlist.jpg)
+1. Save NetList
+
+    ![](img/save-netlist.png)
+1. Run PCB New
+
+    ![](img/run-pcbnew.png)
