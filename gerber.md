@@ -10,34 +10,34 @@
 
 1. Open `PCB Editor`
 
-  ![](img/symbol-pcb-editor.png)
+    ![](img/symbol-pcb-editor.png)
 1. Perform design rules check
 
-  ![](img/design-rules-check.png)
+    ![](img/design-rules-check.png)
 
-  ![](img/drc-control.png)
+    ![](img/drc-control.png)
 
 ## 2. Generate Gerber and Drill files
 
 1. Open `PCB Editor`
 
-  ![](img/symbol-pcb-editor.png)
+    ![](img/symbol-pcb-editor.png)
 1. Click `Plot`
 
-  ![](img/click-plot.png)
+    ![](img/click-plot.png)
 
-  ![](img/plot-gerber.png)
+    ![](img/plot-gerber.png)
 
-  ![](img/generate-drill.png)
+    ![](img/generate-drill.png)
 1. Check files generated
 
-  ![](img/files.png)
+    ![](img/files.png)
 
 ## 3. View Gerber
 
 1. Open GerbView
 
-  ![](img/symbol-gerber-viewer.png)
+    ![](img/symbol-gerber-viewer.png)
 1. Load Gerber file
 
-  ![](img/load-gerber.png)
+    ![](img/load-gerber.png)
