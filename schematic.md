@@ -32,6 +32,8 @@
 ## 2. Annotate
 
 1. Click `annotate` to annotate the schematic
+    
+    ![](img/annotate-schematic.png)
 1. Choose the annotation options
 
     ![](img/annotate-schematic-options.png)
