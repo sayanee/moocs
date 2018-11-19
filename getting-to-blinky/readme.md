@@ -1,4 +1,4 @@
-# KiCad
+# Getting to Blinky [[link](https://www.youtube.com/watch?v=JN_Y93RTdSo&list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q)]
 
 > Learning KiCad notes
 
