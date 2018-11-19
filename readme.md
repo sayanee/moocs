@@ -1,4 +1,6 @@
 # MOOC notes
 
-1. [Getting to Blinky](getting-to-blinky)
-1. [KiCad like a Pro](kicad-like-pro)
+| Name | Started | Completed |
+| ------ | ------ | ------ |
+| [KiCad like a Pro](kicad-like-pro) | 19 Nov 2018 | 
+| [Getting to Blinky](getting-to-blinky) |
