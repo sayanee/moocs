@@ -4,7 +4,7 @@
 
 1. **Eeschema** - Schematic Layout editor with files `*.sch`, `*.lib`, `*.net`
     - Symbol library editor
-    - **CvPcb** - PCB footprint editor
+    - **CvPcb** - Associate components in schematic to footprints
     - Rules check
     - Generate netlist
 1. **Pcbnew** - PCB Layout editor with files `*.kicad_pcb`, `*.kicad_mod`
