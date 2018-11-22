@@ -1,0 +1,92 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.0.1-3-g963ef8bb5)*
+G04 #@! TF.CreationDate,2018-11-22T11:30:25+08:00*
+G04 #@! TF.ProjectId,nRF24-breakout,6E524632342D627265616B6F75742E6B,1.0*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L2,Bot,Signal*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.0.1-3-g963ef8bb5)) date 2018 November 22, Thursday 11:30:25*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10R,1.700000X1.700000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11O,1.700000X1.700000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12C,1.524000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD13R,2.000000X2.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD14C,2.000000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.P,J1,1*
+G04 #@! TO.N,Net-(C1-Pad2)*
+X170180000Y-88900000D03*
+D11*
+G04 #@! TO.P,J1,2*
+G04 #@! TO.N,Net-(J1-Pad2)*
+X170180000Y-91440000D03*
+G04 #@! TO.P,J1,3*
+G04 #@! TO.N,Net-(J1-Pad3)*
+X170180000Y-93980000D03*
+G04 #@! TO.P,J1,4*
+G04 #@! TO.N,Net-(J1-Pad4)*
+X170180000Y-96520000D03*
+G04 #@! TO.P,J1,5*
+G04 #@! TO.N,Net-(J1-Pad5)*
+X170180000Y-99060000D03*
+G04 #@! TO.P,J1,6*
+G04 #@! TO.N,Net-(J1-Pad6)*
+X170180000Y-101600000D03*
+G04 #@! TO.P,J1,7*
+G04 #@! TO.N,Net-(J1-Pad7)*
+X170180000Y-104140000D03*
+G04 #@! TO.P,J1,8*
+G04 #@! TO.N,Net-(C1-Pad1)*
+X170180000Y-106680000D03*
+G04 #@! TD*
+D12*
+G04 #@! TO.P,U1,1*
+G04 #@! TO.N,Net-(J1-Pad2)*
+X162475001Y-97865001D03*
+G04 #@! TO.P,U1,2*
+G04 #@! TO.N,Net-(J1-Pad3)*
+X162475001Y-95325001D03*
+G04 #@! TO.P,U1,3*
+G04 #@! TO.N,Net-(J1-Pad4)*
+X162475001Y-92785001D03*
+G04 #@! TO.P,U1,4*
+G04 #@! TO.N,Net-(J1-Pad5)*
+X159935001Y-92785001D03*
+G04 #@! TO.P,U1,5*
+G04 #@! TO.N,Net-(J1-Pad6)*
+X159935001Y-95325001D03*
+G04 #@! TO.P,U1,6*
+G04 #@! TO.N,Net-(J1-Pad7)*
+X159935001Y-97865001D03*
+G04 #@! TO.P,U1,7*
+G04 #@! TO.N,Net-(C1-Pad1)*
+X159935001Y-100405001D03*
+G04 #@! TO.P,U1,0*
+G04 #@! TO.N,Net-(C1-Pad2)*
+X162475001Y-100405001D03*
+G04 #@! TD*
+D13*
+G04 #@! TO.P,C1,1*
+G04 #@! TO.N,Net-(C1-Pad1)*
+X154940000Y-109855000D03*
+D14*
+G04 #@! TO.P,C1,2*
+G04 #@! TO.N,Net-(C1-Pad2)*
+X159940000Y-109855000D03*
+G04 #@! TD*
+M02*

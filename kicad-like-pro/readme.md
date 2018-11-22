@@ -11,3 +11,7 @@
     - Design rules check
     - Footprint library editor
     - **GerbView** - Gerber viewer with files `*.g\*`, `*.drl`
+
+## KiCad 5.0 project files
+
+- [nRF24 breakout board](nRF24-breakout)
