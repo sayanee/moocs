@@ -5,18 +5,7 @@ MOOC from [Coursera](https://www.coursera.org/learn/machine-learning) by Andrew 
 View notes:
 
 - Open Markdown files locally with [Typora](https://typora.io/)
-- View notes online at [sayan.ee/machine-learning](https://sayan.ee/machine-learning/)
-
-## Development
-
-1. Install dependancies
-    ```sh
-    bundle exec jekyll serve
-    ```
-1. Run the website with GitHub Pages locally at [localhost:4000](http://localhost:4000)
-    ```sh
-    make run
-    ```
+- Uses [MathJax](https://www.mathjax.org/) to display the equations
 
 ## Lecture notes
 
