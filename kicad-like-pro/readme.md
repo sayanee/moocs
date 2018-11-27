@@ -12,6 +12,9 @@
     - Footprint library editor
     - **GerbView** - Gerber viewer with files `*.g\*`, `*.drl`
 
-## KiCad 5.0 project files
+## KiCad 5.0.1 project files
 
 - [nRF24 breakout board](nRF24-breakout)
+    ![](nRF24-breakout/3dview.jpg)
+- [7-segment display board](SevenSegmentDisplayBoard)
+    ![](SevenSegmentDisplayBoard/3dview.jpg)
