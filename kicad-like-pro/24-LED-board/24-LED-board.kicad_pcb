@@ -901,7 +901,7 @@
     )
   )
 
-  (module Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 5C0A66B0)
+  (module Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical locked (layer F.Cu) (tedit 59FED5CC) (tstamp 5C0A66B0)
     (at 94.234 84.582 270)
     (descr "Through hole straight pin header, 1x05, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x05 2.54mm single row")
