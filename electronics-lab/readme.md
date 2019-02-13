@@ -1,6 +1,6 @@
 # Electronics Lab
 
-Some tools:
+## Tools
 
 1. Multimeter
 1. Function generator
@@ -18,7 +18,7 @@ Some tools:
 1. Wires with alligator clips
 1. Breadboards
 
-Components:
+## Components (disposables)
 
 1. Resistors
 1. Capacitors
@@ -32,3 +32,26 @@ Components:
 1. Photo resistors
 1. Serial to USB converters
 1. Diodes
+
+## Power
+
+1. Battery holders for AA batteries
+1. D-size battery pack
+1. Rechargeable AA batteries
+1. Lithium Polymer batteries
+1. Li-Po balance charger
+1. Socket power supplies
+1. Bench power supply
+
+## Mechanical power tools
+
+1. Rotary tool
+1. Extractor knife
+1. Hand reamer
+1. Hot glue gun
+
+## Test equipment
+
+1. Multimeter
+1. Oscilloscope
+1. Function generator
