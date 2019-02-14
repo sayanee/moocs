@@ -43,7 +43,7 @@
 1. Socket power supplies
 1. Bench power supply
 
-## Mechanical power tools
+## Mechanical tools
 
 1. Rotary tool
 1. Extractor knife
@@ -55,3 +55,57 @@
 1. Multimeter
 1. Oscilloscope
 1. Function generator
+
+## Soldering and wiring
+
+1. Solder
+1. Flux
+1. Wire cutter
+1. Soldering Iron
+1. Solder sponge
+1. Soldering Iron cleaner
+1. Tip tinner
+1. Soldering Iron tips
+1. Solder wick
+1. Desoldering pump
+1. Desoldering gun
+1. Heat Shrink tubes
+1. Hot Air SMD reworking gun
+1. Butane torch
+1. Crimping tools
+
+## Software
+
+### Simulators
+
+1. [Circuit Lab](https://www.circuitlab.com/) web app
+1. [Part Sim](http://www.partsim.com/) with DigiKey and BOM integration
+1. [Falstad](https://www.falstad.com/circuit/) web app
+1. [iCircuit](http://icircuitapp.com/) desktop app
+
+### Calculators
+
+1. [Wolfram Alpha](https://www.wolframalpha.com/examples/science-and-technology/engineering/electrical-engineering/electric-circuits/)
+1. [Tux Graphics](http://www.tuxgraphics.org/toolbox/circuit-design-calculator.html)
+1. [N Calculators](https://ncalculators.com/electronics/)
+1. [Calca](http://calca.io/) desktop app
+1. KiCad Calculators
+
+## Safety
+
+1. Anti-Static mat with wrist strap and path to ground
+1. Insulating mats
+1. Controlled current path to ground
+1. Power board
+
+## Datasheet
+
+- version and date
+- features and benefits
+- package information with mechanical information
+- functional diagram
+- pinout
+- functional description
+- limiting values / absolute maximum ratings
+- static and dynamic characteristics
+- waveforms
