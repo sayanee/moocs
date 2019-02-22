@@ -41,7 +41,7 @@ This allows another user on another computer to access the library within the pr
 3.  Select the first `Arrow` tool
 4. Select the zone
 5. See the tiny square and circle anchor points
-6. Drag the anchor points according to the shape 
+6. Drag the anchor points according to the shape
 7. Create a new Anchor Point on the zone linke with  `Right Click` > `Create Corner`
 
 ![](images/create-corner.jpg)
@@ -68,7 +68,7 @@ This allows another user on another computer to access the library within the pr
 
 ## [Switching from 2 layer to 4 layer](https://www.youtube.com/watch?v=OBY1GuCmgPY)
 
-Go to `Setup` in the menubar > `Layers Setup` > Section `Preset Layer Groupings` dropdown > Choose `Four layers, parts on front and back` 
+Go to `Setup` in the menubar > `Layers Setup` > Section `Preset Layer Groupings` dropdown > Choose `Four layers, parts on front and back`
 
 ## [Pad Mask Clearance](https://www.youtube.com/watch?v=qrlE_UGiBuU)
 
@@ -97,4 +97,51 @@ Go to `View` > `Flip board view`
 3. Open the `3D Viewer` > Settings > Uncheck `Show board body`> View the through, buries and blind vias
 
 
+## [Custom pad shapes](https://www.youtube.com/watch?v=pSS_IRM5KIY)
 
+1. Open Footprint Editor
+1. Select the pad to edit
+1. Hit `e` to edit
+1. `Pad Properties` popup > `General` tab > Choose `Pad Type` > Choose `Shape` > `Custom (Rect. Anchor)`
+1. Select tab `Custom Shape Primitives` > `Add Primitive` > `Polygon` > Edit values
+
+## [Interactive BOM](https://www.youtube.com/watch?v=H9WsmhtoH8E)
+
+Download [plugin](https://github.com/openscopeproject/InteractiveHtmlBom) ✅
+
+## [Importing External 3D Models](https://www.youtube.com/watch?v=M1plXo8oLrQ)
+
+1. Open footprint layout
+1. Select the component to edit the new 3D model
+1. Hit `e` to edit
+1. `Footprint Properties` popup > `3D Settings` Popup > Add the path for the new 3D model
+
+Use [grabcad](https://grabcad.com) to download and search for newer 3D models
+
+## [Rounding PCB Corners](https://www.youtube.com/watch?v=FtdAiXc_dNY)
+
+1. Go to footprint layout
+1. Select the Edge Cuts layer
+1. Make a rectangular Edge Cuts lines with `Add graphic lines`
+1. Select `Add graphc arc` tool
+1. Create arcs on the 4 edges counter-clockwise
+1. Delete the rectangular edges
+1. Rejoin the arcs with straight lines with `Add graphic lines`
+
+## [Minimum Soldermask Thickness](https://www.youtube.com/watch?v=8TZBeHTQNiE)
+
+⁉️
+
+### Measure using a ruler
+
+1. Go to footprint layout
+1. Select `Set units to millimetres`
+1. Select `Measure distance` or `Cmd + Shift + m`
+
+## [Courtyards and how to use them](https://www.youtube.com/watch?v=ZCwvLosXLpk)
+
+1. Edit footprint for the selected component
+1. Create a bounding box in the `F.CrtYd` or `B.CrtYd` courtyard layers
+1. Come back to the footprint layout
+1. Select `Perform design rules check`
+1. Check `Check footprint courtyard overlap` or `Check courtyard missing in footprints`
