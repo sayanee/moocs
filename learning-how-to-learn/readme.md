@@ -136,3 +136,77 @@ By Dr. Barbara Oakley and Dr. Terrence Sejnowski
     - **Look ahead and skip** around the problem sets
     - **Interleave between subjects**
     - Learn from daily life non-academic mundane activities like packing for travel, handling a kid, etc
+
+## Procrastination and Memory
+
+- Cramming does not build solid neural structures
+- Willpower is hard to come by
+- Long term effects of habitual procrastination can be bad
+- Procrastination gives temporary relief - like addiction
+- Become a master of your habits
+
+### Techniques
+
+- Chunking is like habits
+    1. Cue
+    1. Routine
+    1. Reward
+    1. Belief
+- Free our mind for other things to focus on
+
+### Process vs Product
+
+- Focus on process, not the product
+- Process focuses on the habit
+
+### Changing a habit
+
+1. The Cue
+    - location
+    - time
+    - how you feel
+    - reactions
+1. The Routine
+    - Actively focus on rewiring your habit at this step!
+    - Have a plan on how to have a new / different routine
+    - Change only a tiny bit
+    - Have a way to do it without having to use a lot of willpower
+1. The Reward
+    - Have an emotional payoff
+    - Indulge on a food
+    - Web-surfing / reading
+    - Have a mini-deadline
+1. The Belief
+    - Hangout with like-minded people!
+
+### Juggling life and learning
+
+- Have a weekly list of key tasks
+- Have a daily todo tasks the evening before
+- Have a quitting time
+- Have a leisure time
+- Do the most disliked task the first thing in the morning to use your willpower E.g. 2 Pomodoro
+- Keep a planner to track what works and what does not
+- Gain trust in your new system
+
+### Memory
+
+- Visual and spacial memory
+- Handwriting can help to encode
+- Create a funny visual
+- Create index cards
+- Repeat with spaced
+- Sleep is when your patterns are enhanced
+
+### Long Term Memory
+
+- Hippocampus is used for long term memory
+- Muscle memories
+- Possible to implant false memories E.g. little children
+- More effective to space repeat, than all in one day
+- Astrocytes are brain cells that
+    - Provide nutrients to neurons
+    - Maintain extracellular (outside the cell) ion balance
+    - Are involved in repair after injury
+    - Have a role in learning
+- Memory palace is a system for putting things in a familiar place like my home
