@@ -210,3 +210,47 @@ By Dr. Barbara Oakley and Dr. Terrence Sejnowski
     - Are involved in repair after injury
     - Have a role in learning
 - Memory palace is a system for putting things in a familiar place like my home
+
+### Some tips from the interviews
+
+- Do memory exercises to prevent dementia / Alzeihmers
+- Downtime is important for the diffused mode of thinking to take effect
+- When encountering obstacles, just let it go, take a break, exercise, go outdoors!
+- if the body is tired, the mind is also tired!
+- Taking a bath
+- Single task for periods of time in days with eat, sleep, exercises
+- Switch off all alerts - nothing is pushed to me!
+
+## Renaissance Learning
+
+- Exercise helps new neurons survive
+- Learning, planning and language are critical
+- Good judgement takes a long time
+- Prefrontal cortex influences:
+    - complex analysis
+    - social behavior
+    - decisions
+    - ability to plan
+- Knowledge collapse occasionally normal
+- Using analogies or metaphors or models
+- Learning maths / science vs sports is similar
+    - repetition
+    - muscle memory
+    - consistency over years
+- Experts rely on unconscious brain to make fast intuitive leaps
+- Smaller working memory means you have more room for creativity
+- Wiring between intention and control areas of the brains are not built until adulthood
+- We can make significant changes in our brain, by changing how we think
+- Brilliant people can also be careless and biased
+- **Virtue of the less brilliant** By Santiago Ramon y Cajal
+    - more persevering
+    - willing to admit mistakes
+    - flexible to change
+- Darwin regularly walked along a path called "Thinking Path"
+- Use other resources, books, history, research to learn about the same topic
+- Take responsibility of your own learning
+- Myth: Empathy is universally beneficial. It is not!
+- Choose your battles wisely - **cool dispassion**
+    - Tune people out if you discover that their interest lie in undercutting you.
+
+> Often no matter how good your teacher and textbook are, it's only when you **sneak off and look at other books or videos** that you begin to see what you **learn through a single teacher, or book, is a partial version of the full three dimensional reality of the subject**, which has links to still other fascinating topics that are of your choosing.
