@@ -223,6 +223,8 @@ By Dr. Barbara Oakley and Dr. Terrence Sejnowski
 
 ## Renaissance Learning
 
+### Part 1
+
 - Exercise helps new neurons survive
 - Learning, planning and language are critical
 - Good judgement takes a long time
@@ -254,3 +256,43 @@ By Dr. Barbara Oakley and Dr. Terrence Sejnowski
     - Tune people out if you discover that their interest lie in undercutting you.
 
 > Often no matter how good your teacher and textbook are, it's only when you **sneak off and look at other books or videos** that you begin to see what you **learn through a single teacher, or book, is a partial version of the full three dimensional reality of the subject**, which has links to still other fascinating topics that are of your choosing.
+
+### Part 2
+
+- Right hemisphere of the brain helps us see the bigger picture
+- Right hemisphere does the devil's advocate
+- Left hemisphere might have a potential for rigidity
+- Catch blind spots by working with other friends or experts in the subject area
+- Explain and sharing work also helps in understanding and building weaker ties for jobs, projects and other opportunities
+- Be careful about too much socializing among friends!!
+
+## Test checklist
+
+- Did you make a serious effort to understand the text?
+- Did you work with classmates on homework problems?
+- Did you attempt to outline every homework problem solution?
+- Did you participate actively in homework group discussions?
+- Did you consult with the instructor when you were having trouble with something?
+- Did you understand ALL of your homework problem solutions?
+- Did you ask in class for explanations of homework problems solutions that weren't clear to you?
+- Did you attempt to outline lots of problem solutions quickly?
+- Did you go over the study guide and problems with classmates and quiz one another?
+- Did you attend a review session before the test?
+- Did you get a reasonable night's sleep before the test?
+
+### Hard Start
+
+- Start on the toughest problems on the test first!
+    - **Difficult questions** work with the focussed mode of thinking first
+    - **Easy questions** work on the diffused mode of thinking for the difficult questions
+- Sometimes only after the test has ended that the answer pops up! That's because of the diffused mode. So use the diffused mode during the test itself.
+
+### Helpful hints for tests
+
+- Empowering beliefs on taking the test can be beneficial
+- Practice deep stomach breathing
+- Cover up the MCQ choices to recall
+- Face your fears - Have a plan B for an alternative career
+- Good worry: empowers you
+- Bad worry: wastes your energy
+- Go through checklists
