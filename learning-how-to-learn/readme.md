@@ -2,6 +2,23 @@
 
 By Dr. Barbara Oakley and Dr. Terrence Sejnowski
 
+## Summary
+
+- Sleeping
+- Working memory
+- Focused and diffused mode of thinking
+- Chunking
+- Exercise
+- Illusion of competence
+- Over-learning
+- Process vs Product
+- Pomodoro technique
+- Memory Palace
+- Components of habit: Cue, Routine, Reward, Belief
+- Virtue of the less brilliant
+- Hard Start, Jump to easy
+
+
 [Link](https://www.coursera.org/learn/learning-how-to-learn)
 
 ## Focused versus Diffused Thinking?
