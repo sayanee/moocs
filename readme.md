@@ -2,6 +2,7 @@
 
 | Name | Source | Started | Completed | Completion |
 | ------ | ------ | ------ | ------ | ------ |
+| [The Complete Networking Fundamentals Course](complete-networking-fundamentals) By David Bombal | [Udemy](https://www.udemy.com/complete-networking-fundamentals-course-ccna-start/learn/v4/overview) | 19 March 2019 |  | 
 | [Learning how to Learn](learning-how-to-learn) By Dr. Barbara Oakley and Dr. Terrence Sejnowski | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | 28 Feb 2019 | 18 March 2019 |  [grades](learning-how-to-learn/grades.png)
 | [KiCad 5](kicad-5) by Chris Gammell | [YouTube](https://www.youtube.com/watch?v=2xRSV1eTsbE&list=PLy2022BX6EsphFLOoGI_fQRpew1i28Y02) | 21 Feb 2019 | 22 Feb 2019
 | [Electronics Lab](electronics-lab) by Peter Dalmaris | [Udemy](https://www.udemy.com/workbench/) | 24 Dec 2018 | 15 Feb 2019 | [certificate](electronics-lab/certificate.pdf) |
