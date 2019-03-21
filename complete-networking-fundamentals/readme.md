@@ -46,3 +46,22 @@ Hybrid:
 - Network
 - Data Link
 - Physical
+
+## Binary, Decimal, Hexadecimal
+
+Uses:
+
+- Subnetting
+- Access lists
+- Inverting IP addressees
+
+| Base ^ Exponent | `2^7` | `2^6` | `2^5` | `2^4` | `2^3` |
+| ------ | ------ | ------ | :----- | ------ | ------ |
+| Binary | 1 | 1 | 1 | 1 | 1 |
+| Decimal | 128 | 64 | 32 | 16 | 8 |
+
+IPv4 address
+
+-  4 octets in length
+- 8 bits in length each
+
