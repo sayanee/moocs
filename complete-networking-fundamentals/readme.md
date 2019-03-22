@@ -1,5 +1,16 @@
 # Complete Networking Fundamentals
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Definitions](#definitions)
+- [OSI Layer](#osi-layer)
+- [Binary, Decimal, Hexadecimal](#binary-decimal-hexadecimal)
+- [IPv4](#ipv4)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Definitions
 
 - Computer Network
@@ -60,8 +71,11 @@ Uses:
 | Binary | 1 | 1 | 1 | 1 | 1 |
 | Decimal | 128 | 64 | 32 | 16 | 8 |
 
-IPv4 address
+## IPv4
 
--  4 octets in length
-- 8 bits in length each
-
+- Layer 3 in OSI layer
+- Connectionless protocol
+- Depends on higher level protocol `TCP` with 3-way handshake: `SYN`, `SYN/Ack`, `Ack`
+- Packet routing depending on load balancing, bandwidth, hop counts
+- Best effort delivery
+- 32 bits, 4 octets
