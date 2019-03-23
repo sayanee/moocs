@@ -79,3 +79,17 @@ Uses:
 - Packet routing depending on load balancing, bandwidth, hop counts
 - Best effort delivery
 - 32 bits, 4 octets
+- Address classes replaced by CIDR in 1993
+
+Class addresses prior to 1993 `W.X.Y.Z`
+
+| Class | Net ID | Default subnet mask | 1st Octet | 2nd Octet | 3rd Octet | 4th octet
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Class A | W | `255.0.0.0` | Network | Host | Host | Host |
+| | `1` to `126` |
+| Class B | W.X | `255.255.0.0`  | Network | Network | Host | Host |
+| | `127` to `191`
+| Class C | W.X.Y | `255.255.255.0` | Network | Network | Network | Host |
+| | `192` to `223`
+| Class D | `224` to `239` | `224` to `239`
+| Class E | `240` to `255`
