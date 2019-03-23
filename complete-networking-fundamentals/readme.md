@@ -91,5 +91,5 @@ Class addresses prior to 1993 `W.X.Y.Z`
 | | `127` to `191`
 | Class C | W.X.Y | `255.255.255.0` | Network | Network | Network | Host |
 | | `192` to `223`
-| Class D | `224` to `239` | `224` to `239`
+| Class D | `224` to `239` | 
 | Class E | `240` to `255`
