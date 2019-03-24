@@ -80,16 +80,27 @@ Uses:
 - Best effort delivery
 - 32 bits, 4 octets
 - Address classes replaced by CIDR in 1993
+- Local loopback addresses: `127.0.0.1` or `127.X.Y.Z`
+- Router's loopback addresses: `10.1.1.1/32`
+- Link local addresses: `169.254.0.0/16`
 
 Class addresses prior to 1993 `W.X.Y.Z`
 
-| Class | Net ID | Default subnet mask | 1st Octet | 2nd Octet | 3rd Octet | 4th octet
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| Class A | W | `255.0.0.0` | Network | Host | Host | Host |
+| Class | Net ID | Subnet mask | 1st Octet | 2nd Octet | 3rd Octet | 4th octet | Host addresses
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Class A | W | `255.0.0.0` | Network | Host | Host | Host | 16.7 million
 | | `1` to `126` |
-| Class B | W.X | `255.255.0.0`  | Network | Network | Host | Host |
+| Class B | W.X | `255.255.0.0`  | Network | Network | Host | Host | 65.5 thousand
 | | `127` to `191`
-| Class C | W.X.Y | `255.255.255.0` | Network | Network | Network | Host |
+| Class C | W.X.Y | `255.255.255.0` | Network | Network | Network | Host | 254
 | | `192` to `223`
-| Class D | `224` to `239` | 
+| Class D | `224` to `239` |
 | Class E | `240` to `255`
+
+## CIDR
+
+- `255.255.255.0` == `/24` == `24` binary 1s continuously
+- Masks must be contiguous - continuous 1s
+- With CIDR, subnet mask does not have to be at the octet boundary
+- Divide between host and network is not at the octet
+- CIDR can implement variable subnet mask 
