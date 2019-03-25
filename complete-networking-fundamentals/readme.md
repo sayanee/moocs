@@ -103,4 +103,17 @@ Class addresses prior to 1993 `W.X.Y.Z`
 - Masks must be contiguous - continuous 1s
 - With CIDR, subnet mask does not have to be at the octet boundary
 - Divide between host and network is not at the octet
-- CIDR can implement variable subnet mask 
+- CIDR can implement variable subnet mask
+
+## IP Subnetting
+
+Calculate:
+
+1. Subnet: `00000000`
+1. 1st Host `00000001`
+1. Last host: `11111110`
+1. Broadcast: `11111111`
+
+| 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+| ------ | ------ | ------| ------ | ------ | ------ | ------ | ------ |
+| 128 | 192 | 224 | 240 | 248 | 252 | 254 | 255 |
