@@ -3,7 +3,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Definitions](#definitions)
 - [OSI Layer](#osi-layer)
 - [Binary, Decimal, Hexadecimal](#binary-decimal-hexadecimal)
@@ -110,10 +109,33 @@ Class addresses prior to 1993 `W.X.Y.Z`
 Calculate:
 
 1. Subnet: `00000000`
-1. 1st Host `00000001`
-1. Last host: `11111110`
-1. Broadcast: `11111111`
+1. 1st Host `00000001` == Subnet + 1
+1. Last host: `11111110` == Broadcast - 1
+1. Broadcast: `11111111` == Next network - 1
 
 | 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
 | ------ | ------ | ------| ------ | ------ | ------ | ------ | ------ |
 | 128 | 192 | 224 | 240 | 248 | 252 | 254 | 255 |
+
+- Hosts = 2^n - 2 (right to left)
+- Networks = 2^n (left to right)
+
+## Cabling and packet flows
+
+- Communications
+    - Unicast (1 to 1)
+    - Broadcast (1 to many) - to all devices
+    - Multicast (1 to some) - to only subscribed or opt-in devices
+- OSI Model protocols
+    - Layer 1: RJ-45
+    - Layer 2: MAC Address
+    - Layer 3: IP Address
+    - Layer 4: TCP/UDP
+- 10base2 Ethernet coaxial cable
+    - baseband: single signal
+    - broadband: multiple signal
+- MAC Address
+    - `48` bits
+    - OUI: `24` bits from **Organizationally Unique Identifier (OUI)**
+    - Station address: `24` bits from **Network Interface Controller (NIC)**
+    - Check OUI list from [Wireshark](https://www.wireshark.org/tools/oui-lookup.html) or [IEEE](http://standards-oui.ieee.org/oui.txt)
