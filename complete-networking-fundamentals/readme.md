@@ -139,3 +139,20 @@ Calculate:
     - OUI: `24` bits from **Organizationally Unique Identifier (OUI)**
     - Station address: `24` bits from **Network Interface Controller (NIC)**
     - Check OUI list from [Wireshark](https://www.wireshark.org/tools/oui-lookup.html) or [IEEE](http://standards-oui.ieee.org/oui.txt)
+- 10baseT
+    - maximum segment is 100m.
+    - shielded twisted pair used in noisy environment
+    - **UTP: Unshielded Twisted Pair** - 4 twisted pair with an outer jacket
+
+Cable categories
+
+| Category | Frequency | Speed | Length
+| ------ | ------ | ------ | ------ |
+| `CAT5e` | `100MHz` | `1Gbps`
+| `CAT6` | `250MHz` | `10Gbps` | `55m`
+| `CAT6e` | `500MHz` | `10Gbps`| `100m`
+| `CAT7` | `600MHz` | `10Gbps` | `100m`
+| `CAT7a` | `1000MHz` | `100Gbps`
+| `CAT8` | `40Gbps`
+
+- Hub (Layer 1) CAT5 - superseded by switches, multi-port repeated with no intelligence, star topology
