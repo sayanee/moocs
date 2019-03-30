@@ -127,8 +127,8 @@ Calculate:
     - Broadcast (1 to many) - to all devices
     - Multicast (1 to some) - to only subscribed or opt-in devices
 - OSI Model protocols
-    - Layer 1: RJ-45
-    - Layer 2: MAC Address
+    - Layer 1: RJ-45, HUB
+    - Layer 2: MAC Address, Bridge, Switch
     - Layer 3: IP Address
     - Layer 4: TCP/UDP
 - 10base2 Ethernet coaxial cable
@@ -155,4 +155,16 @@ Cable categories
 | `CAT7a` | `1000MHz` | `100Gbps`
 | `CAT8` | `40Gbps`
 
-- Hub (Layer 1) CAT5 - superseded by switches, multi-port repeated with no intelligence, star topology
+- **Hub (Layer 1) CAT5** - superseded by switches, multi-port repeater with no intelligence, physical star topology, logical bus topology
+- **Switches (Layer 2)** - uses hardware to route traffic
+- **Bride (Layer 2)** - maintains a list of MAC addresses learnt from the topology, uses ASIC that doesn't slow down the traffic, uses software to route traffic
+
+| Bridge | Switch |
+| ------ | ------ |
+| Software | Hardware |
+| Supports small number of ports | Support many ports |
+| Replace switches today | Maintains a MAC address table
+
+| Half Duplex | Full Duplex |
+| ------- | ------ |
+| Only 1 person can speak at a time | Both person can speak at the same time |
