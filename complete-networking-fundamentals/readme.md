@@ -128,8 +128,8 @@ Calculate:
     - Multicast (1 to some) - to only subscribed or opt-in devices
 - OSI Model protocols
     - Layer 1: RJ-45, HUB
-    - Layer 2: MAC Address, Bridge, Switch
-    - Layer 3: IP Address
+    - Layer 2: Bridge, Switch using MAC Address
+    - Layer 3: Router using IP Address and MAC
     - Layer 4: TCP/UDP
 - 10base2 Ethernet coaxial cable
     - baseband: single signal
