@@ -168,3 +168,15 @@ Cable categories
 | Half Duplex | Full Duplex |
 | ------- | ------ |
 | Only 1 person can speak at a time | Both person can speak at the same time |
+
+## TCP UDP
+
+- no guarantee packets arrives
+- packets might not be in order
+
+| | Reliable | Best Effort / Unreliable
+| ------ | ------ | ------ |
+| Connection type | connection oriented | connectionless |
+| Protocol | TCP | UDP
+| Sequencing | Yes | No
+| Application | HTTP, Email, FTP | Voice and video streaming
