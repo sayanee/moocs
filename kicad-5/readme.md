@@ -1,6 +1,8 @@
 # KiCad 5.0
 
-## Adding new footprint libraries
+[Contextual Electronics](https://www.youtube.com/watch?v=2xRSV1eTsbE&list=PLy2022BX6EsphFLOoGI_fQRpew1i28Y02)
+
+## 1. [Adding new footprint libraries](https://www.youtube.com/watch?v=2xRSV1eTsbE)
 
 This allows another user on another computer to access the library within the project specific directory.
 
@@ -10,7 +12,7 @@ This allows another user on another computer to access the library within the pr
 1. Go to `Preferences` > `Manage footprint libraries` > `Project specific libraries` tab
 1. Choose the `*.pretty` folder from the `library` directory
 
-## [A faster way to update your layout](https://www.youtube.com/watch?v=FO7sArFLOdk)
+## 2. [A faster way to update your footprint](https://www.youtube.com/watch?v=FO7sArFLOdk)
 
 ### Before
 
@@ -26,15 +28,13 @@ This allows another user on another computer to access the library within the pr
 1. Go to `Tools` > `Update PCB from Schematic...`
 1. Check again to ensure footprint layout is not broken
 
-## ⁉️ [Grid origin, Drill and place offset and layer alignment targets](https://www.youtube.com/watch?v=lWyEiKdQi4k)
-
-
+## ⁉️ 3. [Grid origin, Drill and place offset and layer alignment targets](https://www.youtube.com/watch?v=lWyEiKdQi4k)
 
 1. Footprint layout sidebar > `Set origin point for the grid`
 1. Plot GERBER format
 1. Check `Use auxiliary axis as origin`
 
-## [Drawing and modifying planes](https://www.youtube.com/watch?v=jEDCzisf0Rk)
+## 4. [Drawing and modifying planes](https://www.youtube.com/watch?v=jEDCzisf0Rk)
 
 1. Check the zone in `Layers`
 2. Check grid size as required
@@ -46,9 +46,7 @@ This allows another user on another computer to access the library within the pr
 
 ![](images/create-corner.jpg)
 
-
-
-## [Copying symbols from one library to another](https://www.youtube.com/watch?v=Dd7KLLg59O0)
+## 5. [Copying symbols from one library to another](https://www.youtube.com/watch?v=Dd7KLLg59O0)
 
 1. Go to the Schematic
 2. Go to the Symbol Editor with the icon at the top menubar `Create, Delete, Edit Symbols`
@@ -59,30 +57,30 @@ This allows another user on another computer to access the library within the pr
 
 ![](images/copy-paste-remove-symbol.jpg)
 
-## [Modern Toolset (Push & Shove Router)](https://www.youtube.com/watch?v=wkL0WoKleYU)
+## 6. [Modern Toolset (Push & Shove Router)](https://www.youtube.com/watch?v=wkL0WoKleYU)
 
 1. Go to the foot print layout
 2. Select the `Route Track` symbol
 3. Start drawing the track
 4. Change route settings with `Right Click`> `Interactive Router Settings` > `Mode` > `Shove`
 
-## [Switching from 2 layer to 4 layer](https://www.youtube.com/watch?v=OBY1GuCmgPY)
+## 7. [Switching from 2 layer to 4 layer](https://www.youtube.com/watch?v=OBY1GuCmgPY)
 
 Go to `Setup` in the menubar > `Layers Setup` > Section `Preset Layer Groupings` dropdown > Choose `Four layers, parts on front and back`
 
-## [Pad Mask Clearance](https://www.youtube.com/watch?v=qrlE_UGiBuU)
+## 8. [Pad Mask Clearance](https://www.youtube.com/watch?v=qrlE_UGiBuU)
 
 1. **(Global) For all footprints:** Go to footprint layout > `Setup` > `Pad to Mask clearance`
 2. **(Component) For specific footprint:** Highlight the component pads > Hit `e` for edit > View `Footprint properties` > `Local settings` section
 3. **(Pad) For specific pad:**
 
-## [Flipping your view in PCBnew](https://www.youtube.com/watch?v=OwOlJv5TwrA)
+## 9. [Flipping your view in PCBnew](https://www.youtube.com/watch?v=OwOlJv5TwrA)
 
 How to vertically flip the board especially for the back layer so that it appears exactly as real life?
 
 Go to `View` > `Flip board view`
 
-## [3D Viewer](https://www.youtube.com/watch?v=lu41QO-K7GQ)
+## 10. [3D Viewer](https://www.youtube.com/watch?v=lu41QO-K7GQ)
 
 - `z` and `shift + z` to view the board on the Z-axis
 - `y` and `shift + y` to view the board on the Y-axis
@@ -90,14 +88,13 @@ Go to `View` > `Flip board view`
 - Click `Settings` to turn on and off components and layers in view
 - Change Silkscreen color with `Preferences` > `Choose Colors` > `Silkscreen color`
 
-## [Blind and Buried Vias](https://www.youtube.com/watch?v=H8tPb9ekhLw)
+## 11. [Blind and Buried Vias](https://www.youtube.com/watch?v=H8tPb9ekhLw)
 
 1. Go to footprint layout
 2. Go to `Setup` > `Design Rules` > `Design Rules Editor` > `Global Design Rules`> Check `Allow blind/buried vias`
 3. Open the `3D Viewer` > Settings > Uncheck `Show board body`> View the through, buries and blind vias
 
-
-## [Custom pad shapes](https://www.youtube.com/watch?v=pSS_IRM5KIY)
+## 13. [Custom pad shapes](https://www.youtube.com/watch?v=pSS_IRM5KIY)
 
 1. Open Footprint Editor
 1. Select the pad to edit
@@ -105,11 +102,11 @@ Go to `View` > `Flip board view`
 1. `Pad Properties` popup > `General` tab > Choose `Pad Type` > Choose `Shape` > `Custom (Rect. Anchor)`
 1. Select tab `Custom Shape Primitives` > `Add Primitive` > `Polygon` > Edit values
 
-## [Interactive BOM](https://www.youtube.com/watch?v=H9WsmhtoH8E)
+## 14. [Interactive BOM](https://www.youtube.com/watch?v=H9WsmhtoH8E)
 
 Download [plugin](https://github.com/openscopeproject/InteractiveHtmlBom) ✅
 
-## [Importing External 3D Models](https://www.youtube.com/watch?v=M1plXo8oLrQ)
+## 15. [Importing External 3D Models](https://www.youtube.com/watch?v=M1plXo8oLrQ)
 
 1. Open footprint layout
 1. Select the component to edit the new 3D model
@@ -118,7 +115,7 @@ Download [plugin](https://github.com/openscopeproject/InteractiveHtmlBom) ✅
 
 Use [grabcad](https://grabcad.com) to download and search for newer 3D models
 
-## [Rounding PCB Corners](https://www.youtube.com/watch?v=FtdAiXc_dNY)
+## 16. [Rounding PCB Corners](https://www.youtube.com/watch?v=FtdAiXc_dNY)
 
 1. Go to footprint layout
 1. Select the Edge Cuts layer
@@ -128,7 +125,7 @@ Use [grabcad](https://grabcad.com) to download and search for newer 3D models
 1. Delete the rectangular edges
 1. Rejoin the arcs with straight lines with `Add graphic lines`
 
-## [Minimum Soldermask Thickness](https://www.youtube.com/watch?v=8TZBeHTQNiE)
+## 17. [Minimum Soldermask Thickness](https://www.youtube.com/watch?v=8TZBeHTQNiE)
 
 ⁉️
 
@@ -138,10 +135,51 @@ Use [grabcad](https://grabcad.com) to download and search for newer 3D models
 1. Select `Set units to millimetres`
 1. Select `Measure distance` or `Cmd + Shift + m`
 
-## [Courtyards and how to use them](https://www.youtube.com/watch?v=ZCwvLosXLpk)
+## 19. [Courtyards and how to use them](https://www.youtube.com/watch?v=ZCwvLosXLpk)
 
 1. Edit footprint for the selected component
 1. Create a bounding box in the `F.CrtYd` or `B.CrtYd` courtyard layers
 1. Come back to the footprint layout
 1. Select `Perform design rules check`
 1. Check `Check footprint courtyard overlap` or `Check courtyard missing in footprints`
+
+## 20. [Backside "keepouts" using courtyards](https://www.youtube.com/watch?v=L9Sq8Ny3dVw)
+
+- Add courtyard lines for a component in back courtyard `B.CrtYd` layer
+- Run DRC to ensure no other components are there at the back
+
+## 21. [Keepout Zones](https://www.youtube.com/watch?v=K-eFDqgYurY)
+
+- Use the `keepout zone` symbol
+- For copper pours, vias, tracks, PCB antennas
+- ERC check will fail if the rule fails
+
+## 22. [Custom Hotkeys for Multilayer Boards](https://www.youtube.com/watch?v=XmpyAjHGtR0)
+
+- Preferences > Hotkey Options > Edit hotkeys
+- Switch from one layer to another with hotkeys for each layer like `1`, `2`, `3`, `4`, `5` and `6`
+
+## 23. [Adding pinout diagrams to schematics](https://www.youtube.com/watch?v=VIlOduZLw_k)
+
+- Go the schematic
+- Click `Add bitmap image` to add pinout images outside or inside the sheet frames
+
+## 26. [Editing multiple symbol fields (pre-BOM)](https://www.youtube.com/watch?v=uv-lobszo9M)
+
+- Go to schematic
+- Click `Edit symbol fields`
+- Edit multiple part values
+
+## 27. [Exporting BOMs](https://www.youtube.com/watch?v=b6PAW7GPuYs)
+
+- Go to Schematic
+- Click `Generate a bill of materials`
+- Click `Add plugin`
+- Choose `bom_csv_grouped_by_value_with_fp` under **Name**
+- Tweak the **Command line**
+
+    ```
+    /Applications/KiCad/kicad.app/Contents/Frameworks/Python.framework/Versions/Current/bin/python "{do not change}/plugins/bom_csv_grouped_by_value_with_fp.py" "%I" "%O.csv"
+    ```
+- Click `Generate`
+- Ensure `*.xml` and `*.csv` files are created
