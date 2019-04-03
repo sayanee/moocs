@@ -183,3 +183,140 @@ Use [grabcad](https://grabcad.com) to download and search for newer 3D models
     ```
 - Click `Generate`
 - Ensure `*.xml` and `*.csv` files are created
+
+## 30. [Selecting objects](https://www.youtube.com/watch?v=ONwn6YsCqLE)
+
+1. Go to the footprint layout
+1. Use the `Arrow` symbol to select a section
+1. Right click > `Select` > `Filter selection`
+    - footprints
+    - locked footprints
+    - tracks
+    - vias
+    - text items
+    - drawings
+    - board outline layer
+    - zones
+
+## 31. [Changing trace widths](https://www.youtube.com/watch?v=cN2Txv6zTEw)
+
+1. Go to footprint layout
+1. `Setup` > `Design Rules` > `Net class editor` tab
+
+Example of dimensions in inches:
+
+| | Clearance | Track Width | Via Diameter | Via Drill
+| ------ | ------ | ------ | ------ | ------ |
+| Default | `0.01` | `0.01` | `0.027` | `0.013`
+| Power | `0.01` | `0.024` | `0.035` | `0.018`
+
+To add more custom track width within a category:
+
+- `Setup` > `Design Rules` > `Global Design Rules` tab > Add to `Custom Track Widths`
+- Start laying out the tracks in the footprint layout
+- Choose from the dropdown list of track width options (on top left on the menu bar)
+
+## 32. [Selecting traces for rip up](https://www.youtube.com/watch?v=TXVUbun980Q)
+
+Move or delete all tracks:
+
+1. Go to footprint layout
+1. Select the entire board
+1. Right click > Select > Filter selection > check only tracks > Move / Delete the tracks
+
+Select the entire track:
+
+1. Go to footprint layout
+1. Click on one track segment
+    - Right click > Select > Trivial connection `i` / Copper connection `i` / Whole net OR
+    - Press `i` for select copper connection hotkey
+
+Change track size on the fly:
+
+1. Start layout out the track
+1. Hit `q` for custom track/via size hotkey
+
+## 33. [Aligning component and creating arrays](https://www.youtube.com/watch?v=a5CxKZYDqpk)
+
+Regularly spaced items:
+
+1. Go to footprint layout
+1. Select components from right to left
+1. Right click > `Align/ Distribute`
+
+Create array of vias or tracks:
+
+1. Go to footprint layout
+1. Select a single track / via / graphic > Right click > `Create Arrays...`
+
+## 34. [Hierarchical Sheets](https://www.youtube.com/watch?v=PEoVUlZz9lw)
+
+1. Go to schematic editor
+1. Click `Create Hierarchical Sheet`
+1. Use global labels to connect various sheets E.g. power symbols
+1. Use local labels within 1 sheet
+
+Use `Navigate schematic hierarchy` to see all the connected sheets
+
+## 35. [Changing edge clearance and plane parameters](https://www.youtube.com/watch?v=UrPkf9PvMqU)
+
+1. Go to footprint layout
+1. Select the entire fill zone
+1. Hit `e`
+1. Edit `Copper Zone Properties` > `Clearance`
+
+Remove and re-draw filled zones:
+
+- `cmd+b` to remove all filled zones
+- `b` to add filled zones
+
+## 36. [Importing a DXF and matching registration holes](https://www.youtube.com/watch?v=hHURDpH471o)
+
+- Hit spacebar to make an origin for `dy`/`dx`
+- Select a component to move
+- Hit `cmd+m`
+- Choose `Move relative to` > `User Origin`
+
+## 37. [Importing custom graphics](https://www.youtube.com/watch?v=w_7iRCyau7w)
+
+- Use the `bitmap` program
+- `Load bitmap` in `*.png`
+- Adjust to grayscale / bw image
+- Adjust threshold
+- Check `Negative`
+
+## 40. [Custom solderpaste areas](https://www.youtube.com/watch?v=f5pCXReR7sg)
+
+- Go to edit footprint program
+- Make smaller paste layers
+
+## 41. [Adding dimension to your layout](https://www.youtube.com/watch?v=nuC_nDz1N1s)
+
+- Go to footprint layout editor
+- Choose layer `Dwgs.User`
+- Choose tool `Add dimension`
+- Measure from right to left and drag outwards from the PCB
+
+## 42. [Modifying reference designators](https://www.youtube.com/watch?v=kQC9xJHzl40)
+
+- Go to footprint layout Editor
+- Edit > Set footprint field sizes
+
+## 43. [Improving trace visibility during layout](https://www.youtube.com/watch?v=U7X9OoTgIMs)
+
+- Re-fill and unfill zone with `b` and `cmd+b`
+- Use `Layers` on the right sidebar `Layer manager toolbar` to turn them on/off
+- Use `Items` on the right sidebar `Layer manager toolbar` to turn them on/off
+- Use the visibility tools on the left sidebar:
+    1. `Show filled areas in zones`
+    1. `Do not show filled areas in zones`
+    1. `Show outlines of filled areas only in zones`
+    1. `Show pads in outline mode`
+    1. `Show vias in outline mode`
+    1. `Show tracks in outline mode`
+    1. `High contrast display mode`
+
+## 44. [Changing pin visibility for multiple version parts](https://www.youtube.com/watch?v=Bi65WMSa4tw)
+
+1. Go to schematic layout
+1. Choose a components that has multiple version with `Unit A`, `Unit B`, `Unit C`, etc for example for quad op amps.
