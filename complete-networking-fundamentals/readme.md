@@ -180,3 +180,25 @@ Cable categories
 | Protocol | TCP | UDP
 | Sequencing | Yes | No
 | Application | HTTP, Email, FTP | Voice and video streaming
+
+Common port numbers:
+
+- `80` HTTP on TCP
+- `21` FTP on TCP
+- `23` Telnet on TCP
+- `53` DNS on TCP/UDP
+
+Port number ranges:
+
+- Well-known ports `<=1023`
+- Registered port `1024 - 49151`
+- Dynamically assigned ports
+    - IANA `49152 - 65535`
+    - BSD `1024 - 4999`
+    - Linux `32768 - 61000`
+
+3-way TCP handshake:
+
+1. Send `SYN`
+1. Send `SYN, ACK`
+1. Send `ACK`
