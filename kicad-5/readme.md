@@ -320,3 +320,7 @@ Remove and re-draw filled zones:
 
 1. Go to schematic layout
 1. Choose a components that has multiple version with `Unit A`, `Unit B`, `Unit C`, etc for example for quad op amps.
+
+## [Importing EAGLE schematics](https://www.youtube.com/watch?v=2CQsGIvebL0)
+
+1. Go to schematic > File > Import Non KiCad Schematic File > Choose `*.sch` file 
