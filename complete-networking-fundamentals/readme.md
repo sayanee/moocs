@@ -202,3 +202,22 @@ Port number ranges:
 1. Send `SYN`
 1. Send `SYN, ACK`
 1. Send `ACK`
+
+## DHCP
+
+1. Automatic allocation
+    - assign a permanent IP address to a specific client based on E.g. MAC address
+1. Dynamic Allocation
+    - assign an IP for a period of time
+    - IP address can be re-used
+1. Manual Allocation
+    - pre-allocate IP address to a device in the DHCP server
+
+## VLANs
+
+- same broadcast domain
+- allows a logical network, not a physical network
+- allows segmentation
+- allows more flexible without changing physical cabling
+- allows security with more segregated
+- note physical topology vs logical topology
