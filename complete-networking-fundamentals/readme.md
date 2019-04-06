@@ -221,3 +221,10 @@ Port number ranges:
 - allows more flexible without changing physical cabling
 - allows security with more segregated
 - note physical topology vs logical topology
+
+## Routing
+
+- **Routed protocols**: IPv4, IPv6 carrying user data
+- **Routing protocols**: EIGRP (bandwidth and delay), OSPF (bandwidth), RIP (hopcount), ISIS, BGP
+- **Static routes**: Manual update E.g. home router to the ISP
+- **Dynamic routes**: Uses a routing protocol
