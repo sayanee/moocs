@@ -228,3 +228,16 @@ Port number ranges:
 - **Routing protocols**: EIGRP (bandwidth and delay), OSPF (bandwidth), RIP (hopcount), ISIS, BGP
 - **Static routes**: Manual update E.g. home router to the ISP
 - **Dynamic routes**: Uses a routing protocol
+
+## Routing protocols
+
+- Distance by vector - has only direction and distance of the destination
+- Link state - better visibility of the network
+- Advanced Distance Vector
+- Believability factor of a route
+    - Connected interface `0`
+    - Static route `1`
+    - EIGRP `90`
+    - OSPF `110`
+    - RIP `120`
+    - Unknown `255`
