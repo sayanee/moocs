@@ -85,3 +85,86 @@ Factory visit checklist:
 - [ ] Are they ethical in their treatment of their workers?
 - [ ] Do you have access to upper management?
 - [ ] Are they excited about working on your product?
+
+## [Manufacturing Triangle](https://www.youtube.com/watch?v=QBaJwKuShyo)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing)
+
+Triangle of constraints
+
+- Cost
+- Schedule
+- Quality
+
+Other BOM costs:
+
+- Electronics components
+- Mechanical components
+- Decorations
+- Packaging
+- Labour
+- Transportation
+
+Schedule:
+
+- International: Christmas
+- China: New Year and National Week
+
+Example base rate:
+
+- 3 rounds of prototypes: ~ 2 years
+- 1st Factory round: ~0.5 years
+- Final engineering product: ~0.5 years
+
+Product complexity index (PCI):
+
+- New accessory - 2 weeks
+- New version with some changes - 3 weeks
+- New generation with many changes - 4 weeks
+- New product line (complicated) - 4.5 weeks
+- New product line (very complicated) - 5 weeks
+
+Detailed milestones:
+
+- Form CM team
+- Contact lists / roles / responsibilities
+- ME and EE file transfers
+- Works like / looks like samples
+- Exchange trips for relationship building
+- Factory input
+- Components
+- Engineering
+- Quality
+- Production planning
+- Sourcing / Costing
+- Logistics
+- Process
+- Financials
+- Pre-production milestones
+- Tool release
+- Tool start (TS)
+- First shots (FS)
+- Engineering Pilot (EP) EP1, EP2, EP3
+- Production Pilot (PP)
+- Production
+- Production Start (PS)
+- Ramp
+- Engineering Change Notice
+- Sustaining (Quality Up / Cost down)
+- Sunset
+
+Quality
+
+- Use good ingredients
+- Use sub-components
+- Statistical Process Control (SPC) / Yield
+- Find out now, not later
+- Sample testing
+- Final inspection
+- Acceptable Quality Levels (AQL)
+- Walk the line
+- Easier and less expensive to make changes
+- What happens when something fails?
+- Quality is rarely considered in the engineering phase
+- Unknown unknowns
+- How do you know the product is good?
