@@ -14,6 +14,7 @@
 
 1. [Plastic Part design for injection molding](https://www.amazon.com/Plastic-Part-Design-Injection-Molding/dp/1569904367)
 1. [Geometric dimensioning and tolerancing for mechanical design](https://www.amazon.com/Geometric-Dimensioning-Tolerancing-Mechanical-Design-ebook-dp-B004YSWBY2/dp/B004YSWBY2)
+1. [Product design for manufacture and Assembly](https://www.amazon.com/Manufacture-Manufacturing-Engineering-Materials-Processing-ebook-dp-B005H7Z0II/dp/B005H7Z0II/)
 
 ## [Manufacturing Overview](https://www.youtube.com/watch?v=EwwqUoS5PAE)
 
@@ -168,3 +169,68 @@ Quality
 - Quality is rarely considered in the engineering phase
 - Unknown unknowns
 - How do you know the product is good?
+
+## [Selection of Process and Material](https://www.youtube.com/watch?v=CldW3vs_es4)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-course-3-selection-of-process-and-materials)
+
+Start by minimizing parts
+
+- Relative motion?
+- Different material?
+- Required separate for assembly?
+
+Calculate **Assembly Index**:
+
+`100 * N_m * T_m / T_a`
+
+- `N_m` minimum number of parts required
+- `T_m` assume ideal assembly time of `3sec` per step
+- Itemize each step and estimate actual assembly time `T_a`
+- Calculate the ratio of theoretical time / actual time
+- Low volume electromechanical `25%` is a good target
+
+Process and material selection:
+
+- Select in early phase
+- Consider options keeping in mind CM's capabilities
+- Parts, assembly and materials are closely linked to process
+- Reduce number of secondary operations
+
+Material & Process considerations:
+
+1. Production volume (10x)
+1. Budget
+1. Schedule
+1. Experience and design tools
+1. Part geometry
+1. Service and environmental requirements
+    - user replaceable? water proof?
+1. Aesthetics
+1. Accuracy
+    - Precision equipment?
+
+Shape attributes:
+
+- Depressions?
+- Uniform wall?
+- Uniform cross-section?
+- Axis of rotation?
+- Regular cross section?
+- Captured cavity?
+- Enclosed Cavity?
+- No Draft?
+
+Process comparison tools:
+
+1. Comparison matrix of shape generation vs processes
+1. Comparison matrix of materials vs processes
+1. Production Volume vs Cost comparison among process A, B, C
+1. Rank processes by:
+    - throughput and batch size
+    - schedule
+    - production rate
+    - bottlenecks
+    - materials handling
+    - cycle time
+    - economics
