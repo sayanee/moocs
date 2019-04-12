@@ -234,3 +234,24 @@ Process comparison tools:
     - materials handling
     - cycle time
     - economics
+
+## [Project Management](https://www.youtube.com/watch?v=2JaQpDX-0gs)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-course-4-selection-of-process-and-materials)
+
+- Define objective
+- Create milestones
+- Assign resources and duration
+- Identify Critical Path / Iterate
+- Execute & Track progress - Gantt chart
+- Adjust
+- Complete
+
+Communication:
+
+1. Product design
+1. Data sent to manufacturer
+1. Tooling manufactured
+1. Parts molded
+1. Product assembled
+1. Final inspection and shipping
