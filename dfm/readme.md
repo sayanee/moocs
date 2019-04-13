@@ -15,6 +15,7 @@
 1. [Plastic Part design for injection molding](https://www.amazon.com/Plastic-Part-Design-Injection-Molding/dp/1569904367)
 1. [Geometric dimensioning and tolerancing for mechanical design](https://www.amazon.com/Geometric-Dimensioning-Tolerancing-Mechanical-Design-ebook-dp-B004YSWBY2/dp/B004YSWBY2)
 1. [Product design for manufacture and Assembly](https://www.amazon.com/Manufacture-Manufacturing-Engineering-Materials-Processing-ebook-dp-B005H7Z0II/dp/B005H7Z0II/)
+1. [Plastic design for injection molding](https://www.amazon.com/Plastic-Part-Design-Injection-Molding/dp/1569904367/)
 
 ## [Manufacturing Overview](https://www.youtube.com/watch?v=EwwqUoS5PAE)
 
@@ -255,3 +256,31 @@ Communication:
 1. Parts molded
 1. Product assembled
 1. Final inspection and shipping
+
+## [Injection Molding](https://www.youtube.com/watch?v=jx5_gO9LTf8)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-class-5-injection-molding)
+
+Injection molding advantages:
+
+- complex geometry and fine details
+- low part cost
+- high volume
+- low scrap rate
+- high reproducibility
+- little post production steps
+- good surface finish
+- simplifies assembly
+- fully automated
+
+Injection molding disadvantages:
+
+- high tooling cost
+- difficult to make changes
+- only thermoplastics
+- large undercuts are difficult
+
+Process:
+
+1. High temperature e.g. `250℃`
+1. High pressure e.g. `12k psi`
