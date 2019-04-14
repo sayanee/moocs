@@ -284,3 +284,29 @@ Process:
 
 1. High temperature e.g. `250℃`
 1. High pressure e.g. `12k psi`
+
+Design guidelines:
+
+1. wall thickness
+1. draft - use [Moldflow](https://www.autodesk.com/products/moldflow/overview) or software for draft analysis
+1. no sharp edges
+1. planar parting guidelines
+1. tolerance
+1. surface finish
+
+[Protolabs](https://www.protolabs.com/) for rapid prototyping.
+
+Features:
+
+- side wall
+- boss
+- side vents
+- rib
+- shut off hole
+- through boss for screw
+- snap fit
+- mouse hole
+- side action hole
+- nominal wall
+
+*Continue with 46min at slide 31*
