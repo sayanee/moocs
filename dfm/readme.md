@@ -309,4 +309,20 @@ Features:
 - side action hole
 - nominal wall
 
-*Continue with 46min at slide 31*
+Materials
+
+- thermoplastics 95% - reversible
+- thermosets 5% - irreversible
+
+Types of resins:
+
+- ABS
+- PC
+- POM
+- Polyamide
+- PP
+- Aluminum
+- Steel
+
+
+*Continue at 1:10 at slide 48*
