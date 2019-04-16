@@ -13,9 +13,8 @@
 ## [Books](https://www.youtube.com/watch?v=pFFtao43tkw)
 
 1. [Plastic Part design for injection molding](https://www.amazon.com/Plastic-Part-Design-Injection-Molding/dp/1569904367)
-1. [Geometric dimensioning and tolerancing for mechanical design](https://www.amazon.com/Geometric-Dimensioning-Tolerancing-Mechanical-Design-ebook-dp-B004YSWBY2/dp/B004YSWBY2)
 1. [Product design for manufacture and Assembly](https://www.amazon.com/Manufacture-Manufacturing-Engineering-Materials-Processing-ebook-dp-B005H7Z0II/dp/B005H7Z0II/)
-1. [Plastic design for injection molding](https://www.amazon.com/Plastic-Part-Design-Injection-Molding/dp/1569904367/)
+1. [Geometric dimensioning and tolerancing for mechanical design](https://www.amazon.com/Geometric-Dimensioning-Tolerancing-Mechanical-Design-ebook-dp-B004YSWBY2/dp/B004YSWBY2)
 
 ## [Manufacturing Overview](https://www.youtube.com/watch?v=EwwqUoS5PAE)
 
@@ -324,5 +323,32 @@ Types of resins:
 - Aluminum
 - Steel
 
+## [Die Casting](https://www.youtube.com/watch?v=1uw7RZ6yQnE)
 
-*Continue at 1:10 at slide 48*
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-class-6-die-casting)
+
+Die Casting is for metals
+
+advantages:
+
+- complex geometry
+- high volume
+- good surface finish
+- mechanical strength
+- dimensional stability
+- thin walls vs other casting processes
+
+disadvantages:
+
+- high tooling cost
+- long lead times
+- limited alloys
+- cannot produce very large parts as a single piece
+- difficult to make changes
+
+Alloys:
+
+- Zinc
+- Aluminum
+
+*Continue at 9:07 at slide 15*
