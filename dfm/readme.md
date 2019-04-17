@@ -346,9 +346,11 @@ disadvantages:
 - cannot produce very large parts as a single piece
 - difficult to make changes
 
-Alloys:
+Alloys/Resin:
 
 - Zinc
+- Zinc-AL
 - Aluminum
-
-*Continue at 9:07 at slide 15*
+- Magnesium
+- Copper
+- Glass filled Nylon
