@@ -354,3 +354,32 @@ Alloys/Resin:
 - Magnesium
 - Copper
 - Glass filled Nylon
+
+## [Rotomolding](https://www.youtube.com/watch?v=y958rNOH1fI)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-class-7-part-1-rotomolding)
+
+Advantages:
+
+- Hollow parts
+- No weld lines
+- Undercuts are OK
+- Large parts
+- Multiple colors
+- Minimal scraping
+- Small or high production volumes
+- Shorter time and cheaper tooling
+
+Disadvantages:
+
+- material is slightly more expensive
+- cannot control wall thickness precisely
+- material cost higher due to additional processing
+
+Common materials:
+
+- PE
+- PP
+- PC
+- PVC
+- Nylon
