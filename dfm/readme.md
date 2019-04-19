@@ -383,3 +383,20 @@ Common materials:
 - PC
 - PVC
 - Nylon
+
+## [Compress Molding](https://www.youtube.com/watch?v=fBGHOkA-Qy4)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-class-7-part2dfmcompressionmolding)
+
+Advantages:
+
+- variable wall thickness
+- low cost
+- high volume
+- flexible material
+- good surface finish
+
+Disadvantages:
+
+- cannot regrind materials
+- slow cycle time
