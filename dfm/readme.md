@@ -400,3 +400,36 @@ Disadvantages:
 
 - cannot regrind materials
 - slow cycle time
+
+## [CNC](https://www.youtube.com/watch?v=n-7yk6cHY2s)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-course-8-part-1-machining-cnc)
+
+Disadvantages:
+
+- Wasteful - substrative process
+- long cycle time
+
+## Summary
+
+| Process | Products | Materials | Advantages | Disadvantages |
+| ------ | ------ | ------ | ------ | ------ |
+| Injection Molding |
+| Die Casting |
+| Rotomolding |
+| Compression molding |
+| CNC |
+
+Advantage / Disadvantage criteria:
+
+- How wasteful?
+- How much volume?
+- Repeatability?
+- Cost?
+- Surface finish?
+- Material variety?
+- Size?
+- Undercuts?
+- Tooling duration?
+- Wall thickness?
+- Duration of making changes?
