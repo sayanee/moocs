@@ -410,6 +410,26 @@ Disadvantages:
 - Wasteful - substrative process
 - long cycle time
 
+## [Stamping](https://www.youtube.com/watch?v=pedKMSOGofI)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-course-8-part-2-stamping)
+
+Advantages
+
+- high volume production
+- short cycle time
+- cost effective Components
+- feature integration
+- high precision
+- large part
+
+Disadvantage:
+
+- Expensive tooling
+- difficult to prototype
+- limited to metals
+- rough edge finishes
+
 ## Summary
 
 | Process | Products | Materials | Advantages | Disadvantages |
@@ -419,6 +439,7 @@ Disadvantages:
 | Rotomolding |
 | Compression molding |
 | CNC |
+| Stamping |
 
 Advantage / Disadvantage criteria:
 
@@ -433,3 +454,4 @@ Advantage / Disadvantage criteria:
 - Tooling duration?
 - Wall thickness?
 - Duration of making changes?
+- Materials?
