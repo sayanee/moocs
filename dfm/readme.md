@@ -455,3 +455,43 @@ Advantage / Disadvantage criteria:
 - Wall thickness?
 - Duration of making changes?
 - Materials?
+
+## [Test design](https://www.youtube.com/watch?v=zCnTUOxMl_4)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-class-10-test-design-strategy)
+
+2 types of testing:
+
+- design verification testing
+- production testing
+
+Test conditions:
+
+- Normal use
+- Abnormal use
+- Abuse
+- Life and reliability
+
+2 types of data:
+
+- Attribute data: Pass / Fail
+- Variable data: Sensors
+
+Test coverage:
+
+- 100% testing is best
+- Sample testing
+
+Component Life test and redesign
+
+- important components are life tested
+- make the test as realistic as possible!
+- no such thing as a fluke!
+- product is guilty until proven innocent
+
+System life testing
+
+- Some problems can only be found when testing the entire system
+    - Software
+    - Electrical noise
+- Pass component testing first, then system testing
