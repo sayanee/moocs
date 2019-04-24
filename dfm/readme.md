@@ -456,6 +456,45 @@ Advantage / Disadvantage criteria:
 - Duration of making changes?
 - Materials?
 
+## [Quality](https://www.youtube.com/watch?v=j1QHBtY_e7Y)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-class-9-quality)
+
+Quality is:
+
+- customer-based
+- manufacturing-based
+- product-based
+- value-based
+- transcendent
+
+Negative quality:
+
+- lower quality for price
+- groupthink
+- getting away with little less and increasing it step by step
+
+Characterizing problem:
+
+- By Severity
+    - personal injury
+    - property damage
+    - product return
+    - irritation and dissatisfaction
+- By Likelihood
+    - probability of occurrence
+- By Detectability
+    - warn and inform!
+    - hidden hazards are most dangerous
+
+Designing safe products
+
+- Acceptable safety?
+- Intrinsic safety?
+- Redundancy and fake Redundancy?
+
+*Continue on 23min*
+
 ## [Test design](https://www.youtube.com/watch?v=zCnTUOxMl_4)
 
 [Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-class-10-test-design-strategy)
