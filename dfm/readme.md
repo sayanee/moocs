@@ -493,7 +493,34 @@ Designing safe products
 - Intrinsic safety?
 - Redundancy and fake Redundancy?
 
-*Continue on 23min*
+Reliability
+
+- cost budget
+- weight budget
+- volume budget
+- performance budget
+- failure budget
+    - `4%` retail returns
+        - `1.6%` defective returns
+            - `0.55%` unanticipated
+            - `0.4%` actual defects in warranty
+            - `0.65%` factory quality defect
+        - `2.4%` non-defective returns
+
+Six Sigma
+
+- +/- 6 sigma in standard deviation
+- 1/1 billion at tail end on both sides of the graph
+- measure failure rates at sub-assembly processes
+- all failures must be fixed at test phase
+
+[Some important numbers](https://www.asknumbers.com/WhatisReliability.aspx)
+
+- availability
+- failure
+- maintainability
+- MTBF - not that important, more important is warranty period
+- fix the tolerances and dimensions, not the design or materials
 
 ## [Test design](https://www.youtube.com/watch?v=zCnTUOxMl_4)
 
