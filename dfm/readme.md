@@ -15,6 +15,7 @@
 1. [Plastic Part design for injection molding](https://www.amazon.com/Plastic-Part-Design-Injection-Molding/dp/1569904367)
 1. [Product design for manufacture and Assembly](https://www.amazon.com/Manufacture-Manufacturing-Engineering-Materials-Processing-ebook-dp-B005H7Z0II/dp/B005H7Z0II/)
 1. [Geometric dimensioning and tolerancing for mechanical design](https://www.amazon.com/Geometric-Dimensioning-Tolerancing-Mechanical-Design-ebook-dp-B004YSWBY2/dp/B004YSWBY2)
+1. [Designing Plastic Parts for assembly](https://www.amazon.com/Designing-Plastic-Parts-Assembly-8E/dp/1569906688)
 
 ## [Manufacturing Overview](https://www.youtube.com/watch?v=EwwqUoS5PAE)
 
@@ -561,3 +562,46 @@ System life testing
     - Software
     - Electrical noise
 - Pass component testing first, then system testing
+
+
+## [Design for manual assembly](https://www.youtube.com/watch?v=sheZ6bffiWU)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-class-11-design-for-manual-assembly-part-1-techniques)
+
+Goal:
+
+- reduce parts count
+- reduce time taken for each step
+
+Why fewer parts count?
+
+- lower cost
+- less docs
+- lesser suppliers
+- fewer inspections
+- fewer number of different parts to keep in inventory
+- fewer rework
+- lower tolerance stack-up
+- lower tooling cost
+- fewer Materials
+- higher quality!
+
+Manual assembly vs Robot assembly: pros and cons
+
+Manual assembly challenges:
+
+- finger grasp
+- small size
+- hot
+- fingers cannot access the location
+
+DFA guidelines:
+
+- self-aligning
+- self-location
+- standardized parts
+- robust and sloppy tolerances
+- eliminate adjustments
+- minimize re-orientation
+
+*Continue at 25mins and slide 21*
