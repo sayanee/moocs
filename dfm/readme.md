@@ -603,5 +603,17 @@ DFA guidelines:
 - robust and sloppy tolerances
 - eliminate adjustments
 - minimize re-orientation
+- make mating features grossly asymmetric
+- eliminate flexible parts
+- force correct assembly
+- make parts symmetrically so that orientation is unimportant
 
-*Continue at 25mins and slide 21*
+Best practices:
+
+| Bad | Good |
+| ------ | ------ |
+| asymmetrical | symmetrical
+| slight asymmetrical | pronounced asymmetrical
+| will jam | cannot jam
+| will tangle | cannot tangle
+| part must be released before located | part located before release
