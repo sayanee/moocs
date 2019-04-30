@@ -617,3 +617,19 @@ Best practices:
 | will jam | cannot jam
 | will tangle | cannot tangle
 | part must be released before located | part located before release
+
+## [Boothroyd Dewhurst Method](https://www.youtube.com/watch?v=PcZRB0PpIPc)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-class-11-design-for-manual-assembly-part-2-boothroyd-dewhurst-method)
+
+Definition:
+
+- cost ∝ assembly line
+- time and quality --> lower number of parts and ease of assembly
+- analyzing part count and geometry to calculate theoretical assembly line
+
+> The Boothroyd Dewhurst Method involves systematically looking at the part geometry and how they're fastened to estimate a time to put the different parts together. Then, adding it up and comparing it to a **theoretical minimum part count** (what's the fewest number of possible parts you could have to build the product). You will then get a ratio of the two to get an overall design efficiency. The actual number does not matter as it's **intended as a benchmarking tool**; as you improve the design you have some benchmarks or some comparison points so you know this design is better or worse than that your previous design.
+
+Value of the BD Method:
+
+> Most importantly, this method forces you to take a step back because everything is so rushed to get the actual product working and you're thinking about so many things. The Boothroyd Dewhurst method lets you pop up a level and think specifically about assembly and ask questions: Do I really need two parts? Can I put them together with snap fit rather than screws? It is those key insights that are important.
