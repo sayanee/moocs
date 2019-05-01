@@ -632,4 +632,78 @@ Definition:
 
 Value of the BD Method:
 
-> Most importantly, this method forces you to take a step back because everything is so rushed to get the actual product working and you're thinking about so many things. The Boothroyd Dewhurst method lets you pop up a level and think specifically about assembly and ask questions: Do I really need two parts? Can I put them together with snap fit rather than screws? It is those key insights that are important.
+> Most importantly, this method forces you to take a step back because everything is so rushed to get the actual product working and you're thinking about so many things. The Boothroyd Dewhurst method lets you pop up a level and think specifically about assembly and ask questions: **Do I really need two parts? Can I put them together with snap fit rather than screws? It is those key insights that are important.**
+
+## [Costing](https://www.youtube.com/watch?v=K8xrtOk7aDo)
+
+[Slides](https://www.slideshare.net/dragoninnovation/design-for-manufacturing-course-class-11-costing)
+
+Cost of Goods (COGS)
+
+- materials
+- manufacturing
+- labour
+- ex-factory
+- freight on board
+- shipping
+- warehousing
+- variants: currency exchange, transportation, commodity costs
+
+Retail costing model:
+
+1. COGS
+1. Wholesale price
+1. Retail price
+
+Cost Drivers:
+
+- Design:
+    - material
+    - fabrication method
+    - manufacturing efficiency
+    - quality requirements
+    - packaging
+    - replaceable
+    - spares
+- Manufacturing
+    - BOM transparency
+    - profit margin
+    - labor rate
+    - currency
+    - geographical location
+    - supply chain
+
+Schedule:
+
+1. Component lead times
+1. Build goods
+1. Quality Check
+1. Ship
+1. Inventory
+1. Sell
+1. Payment
+
+BOM includes:
+
+- Plastic
+- Manufactured components
+- Mechanical
+- Consigned components
+- Deco
+- Packaging
+- Assembly Labor
+- CM Profit, overhead and scrap
+- Overland transportation
+
+> "It's a long time between an idea and the pay check" - Jim Lynch, CEO Robot-Add-Ons
+
+Typical markups:
+
+- PCBA: `6%` - `8%`
+- Toys: `12%`
+- Consumer Electronics: `15%`
+- Medical devices: `20%` - `40%`
+
+## [Waterproofing](https://www.youtube.com/watch?v=PLcYiSStU6I)
+
+[Slides](https://blog.dragoninnovation.com/blog/2015/01/06/dfm-course-13-waterproofing)
