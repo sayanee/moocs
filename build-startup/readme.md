@@ -25,11 +25,15 @@ Startups are not smaller versions of large companies!
 | Mode | Search | Execution
 | Solve via | Iteration | Repetition
 | Idea | Searching | Proven
-| Start with | Business Model hypothesis | Operating plan and financial plan
+| Strategy | Business Model hypothesis | Operating plan and financial plan
 | Operations are | Unpredictable | Somewhat very predictable
-| Process | Customer development + Agile | Product management + Waterfall
+| Process | Customer development + Agile | Product management + Agile/Waterfall
+| Organization | Founder-driven, customer development team | Functional organization by department
+| Education | Business model design, customer development, startup team building, entrepreneurial finance, Agile development, marketing | Organizational Behaviors, HR Management, Accounting, Modeling, Strategy, Operations, Leadership, Marketing, Manufacturing
 
-## Fallacy of building Startups
+Fact-based, not faith based!
+
+### Fallacy of building Startups
 
 ❌ Not a way to build startups ❌
 
@@ -64,11 +68,72 @@ Wrong assumptions:
 
 Most startups **fail from a lack of customers** than from a failure of product development.
 
-## Customer development
+Customer development
 
 1. customer discovery
 1. customer validation -> feedback to step 1 via an iteration
 1. customer creation
 1. company building
 
-*Continue at Section 2, 9. Organisation*
+Possible future of any startup:
+
+- Grow into a company
+- Pivot and iteration as it continues to search for a business model
+- Grow very slowly and barely break even
+- Run out of money and shutdown
+
+## 3. Business models and customer development
+
+Company
+
+> A company is a business organization which **sells a product or service** in exchange for **revenue and profit**.
+
+Startup
+
+> A startup is a **temporary** organization **designed to search for a repeatable and scalable** business model. The goal of a startup is NOT to become a startup!
+
+Business Model
+
+> How a company **created value for itself** while delivering products or services for customers.
+
+1. Value proposition
+    - what problems are you solving?
+    - who are the customers?
+    - customers don't care about your technology!
+    - problems vs need
+1. Customer segments
+    - who are they customers?
+    - why would they buy?
+    - what is their demographics?
+1. Channels
+    - retail / store / physical
+    - web / mobile / cloud
+1. Customer relationships
+    - how to get customers?
+    - how to keep customers?
+    - how to grow customers?
+    - Get, Keep, Grow funnel
+1. Revenue streams?
+    - what value is the customer paying for?
+    - freemium?
+    - license? subscription?
+1. Resources
+    - most important assets?
+    - capital, credit
+    - factory? machines? cars?
+    - intellectual property?
+    - talent?
+1. Partners?
+    - what are we acquiring from partners?
+    - what key activities do they perform?
+1. Activities?
+    - production? making?
+    - problem solving? consulting?
+    - managing supply chain?
+    - what do we need to become an expert at?
+1. Costs?
+    - people, building, materials?
+    - most expensive activities and materials?
+    - fixed cost and variable costs?
+
+*Continue at Lesson 4, Hypothesis or Guesses
