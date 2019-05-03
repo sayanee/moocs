@@ -2,8 +2,8 @@
 
 | Name | Source | Started | Completed | Completion |
 | ------ | ------ | ------ | ------ | ------ |
-| [How to Build a Startup](build-startup) by Steve Blank | [Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245) | 2 May 2019 |  | 
-| [Design for Manufacturing Course](dfm) by Dragon Innovation | [YouTube](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a) | 9 April 2019 |  | 1 May 2019
+| [How to Build a Startup](build-startup) by Steve Blank | [Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245) | 2 May 2019 |  |
+| [Design for Manufacturing Course](dfm) by Dragon Innovation | [YouTube](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a) | 9 April 2019 | 1 May 2019
 | [FreeCAD beginner's tutorial](freecad) | [YouTube](https://www.youtube.com/watch?v=_HEvhclR4-o&list=PL6fZ68Cq3L8k0JhxnIVjZQN26cn9idJrj) | 29 March 2019 |  |
 | [The Complete Networking Fundamentals Course](complete-networking-fundamentals) By David Bombal | [Udemy](https://www.udemy.com/complete-networking-fundamentals-course-ccna-start/learn/v4/overview) | 19 March 2019 | 9 April 2019 (most Cisco router related demos were skipped) |
 | [Learning how to Learn](learning-how-to-learn) By Dr. Barbara Oakley and Dr. Terrence Sejnowski | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | 28 Feb 2019 | 18 March 2019 |  [grades](learning-how-to-learn/grades.png)
