@@ -136,4 +136,57 @@ Business Model
     - most expensive activities and materials?
     - fixed cost and variable costs?
 
-*Continue at Lesson 4, Hypothesis or Guesses
+Business Model Canvas:
+
+- Hypothesis == Guesses
+- How do we change those guesses from facts?
+- Design experiments, run tests, get data to validate
+- Pivot via feedback
+
+Customer Development
+
+- Founder must do it!
+- Don't use employees or proxies
+
+Founders can:
+
+- change the product
+- make pivots
+- hear customer feedback first-hand
+
+Minimal Viable Product
+
+- build minimum product to get feedback
+- prevent wastage of time, people, money and resources
+
+Pivot:
+
+- What do we do when Hypothesis do not match the Reality?
+- An iteration is a minor change
+- Fire the hypothesis, not people (Founder or the employees)!
+- Constant speed, with constant tempo
+
+**Customer discovery**:
+
+1. State the Hypothesis
+    - via the Business Model Canvas
+1. Test the problem
+    - Build the wireframe or prototype
+    - Testing your understanding of the customers
+1. Test the solution
+    - Build a high fidelity app or prototype
+    - Match value proposition and customers (**Product-Market Fit**)
+1. Pivot or proceed
+
+**Customer validation**:
+
+1. Get ready to sell
+    - Acquire / activate customers
+    - Build high fidelity MVP
+    - Develop sales collateral
+    - sales roadmap
+1. Get out of the building
+1. Develop positioning
+1. Verify   
+    - Are you sure you have a repeatable and scalable business model?
+    - Are you ready to scale marketing and sales spending?
