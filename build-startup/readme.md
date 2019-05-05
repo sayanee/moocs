@@ -190,3 +190,45 @@ Pivot:
 1. Verify   
     - Are you sure you have a repeatable and scalable business model?
     - Are you ready to scale marketing and sales spending?
+
+Market opportunity / analysis
+
+- Identify a customer and market need
+- Size the market
+- Competitions
+- Growth potential
+
+Narrowing markets:
+
+1. Total addressable market
+    - how big is the universe?
+1. Total served available market
+    - how many can i reach with my sales channel?
+1. Target market
+    - who will be most likely buyers?
+
+Total available market
+
+- how big is the pie?
+- how many people would want / need the product?
+- how large is the market if they all bought?
+- how do I found out? Industry analyst, Wall street analyst
+
+Total served available market
+
+- how big is the served available market?
+- how many people need / can use this product?
+- how many have the money to buy?
+- understand in dollars / units
+- how do i find out? talk to potential customers
+
+Target market
+
+- Who am i going to sell to in the year 1, 2, 3?
+- How many customers is that?
+- How large if they all bought?
+- How do i find out? potential customers, channel partners, competitors
+
+**Startup has ever exceeded their estimated target market size**
+
+*Continue with 14. Market Size Summary*
