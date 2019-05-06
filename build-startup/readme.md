@@ -231,4 +231,24 @@ Target market
 
 **Startup has ever exceeded their estimated target market size**
 
-*Continue with 14. Market Size Summary*
+Market questions:
+
+- How big can this market be?
+- How much of it can we get?
+- Market growth rate?
+- Market structure: mature or in flux?
+
+Market research firms:
+
+- Wall Street Analyst reports
+- Forrester
+- Gartner
+
+## 5. Value proposition
+
+- What product or service are you building, for who and what does it solve?
+- Value proposition linking to customer segments: **Product - Market Fit**
+- What are your gain creators? A gain is a customer solution
+- What are your pain killers? A pain is a customer problem
+
+*Continue at 5. Value proposition, 8. Talk to customer
