@@ -251,4 +251,66 @@ Market research firms:
 - What are your gain creators? A gain is a customer solution
 - What are your pain killers? A pain is a customer problem
 
-*Continue at 5. Value proposition, 8. Talk to customer
+Product
+
+- Which are parts of your value proposition?
+- Which intangible products are part?
+- Which financial products?
+- Which digital products?
+
+Service
+
+- Which core services are part of your value proposition?
+    - Consulting, haircut, investment advice
+- Which pre-sales or sales services?
+    - help finding right solution, financing
+- Which after-sales services?
+    - free-maintenance, disposal
+
+Pain killers:
+
+- reduce
+- eliminate waste
+- produce savings in time or money?
+- feel better
+- fix bad solutions that are under-performing?
+- end challenges?
+- add to social status
+- eliminate risks
+
+Ranking pain killers:
+
+- Intensity
+- Frequency
+
+Gain creators:
+
+- What makes the customer happy?
+- How is the outcome better?
+- Exceed current solutions?
+- Job or easier life?
+
+Ranking gain creators according to relevance
+
+Physical | Web / Mobile
+| ------ | ------ |
+| Direct sales | Website / App
+| Build something | Low fidelity
+| Interviews, demos, prototypes | Website
+
+Avoid building products that nobody wants!
+
+Minimum Viable Product:
+
+- What product or service you are building in your first instance that is delivered to customers?
+- Not version 1.0 of product specification
+- Talk to customers!
+- Not a minimal product
+- What solutions do customers use now?
+
+Competition:
+
+- Create the Business Model Canvas for some competitors?
+- Why is the problem so hard to solve?
+- Why has it not done before?
+- Who has already done this before?
