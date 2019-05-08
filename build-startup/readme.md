@@ -1,5 +1,17 @@
 # How to Build a Startup
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [1. Before you get started](#1-before-you-get-started)
+- [2. What we now know](#2-what-we-now-know)
+- [3. 4. Business models and customer development](#3-4-business-models-and-customer-development)
+- [5. Value proposition](#5-value-proposition)
+- [6. Customer Segments](#6-customer-segments)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## 1. Before you get started
 
 Readings:
@@ -32,8 +44,6 @@ Startups are not smaller versions of large companies!
 | Education | Business model design, customer development, startup team building, entrepreneurial finance, Agile development, marketing | Organizational Behaviors, HR Management, Accounting, Modeling, Strategy, Operations, Leadership, Marketing, Manufacturing
 
 Fact-based, not faith based!
-
-### Fallacy of building Startups
 
 ❌ Not a way to build startups ❌
 
@@ -82,7 +92,7 @@ Possible future of any startup:
 - Grow very slowly and barely break even
 - Run out of money and shutdown
 
-## 3. Business models and customer development
+## 3. 4. Business models and customer development
 
 Company
 
@@ -314,3 +324,81 @@ Competition:
 - Why is the problem so hard to solve?
 - Why has it not done before?
 - Who has already done this before?
+- What do customers do today?
+
+Insights:
+
+- Do you have a technology insight?
+    - Moore's Law
+    - New scientific discoveries
+- Do you have a market insight?
+    - Disrupt value chain?
+    - Deregulation?
+
+Types of value proposition:
+
+- Technology insight
+    - more efficient
+    - smaller
+    - faster
+- Market insight
+    - better distribution
+    - better bundling
+    - better branding
+- Both
+    - Lower cost
+    - simpler
+
+## 6. Customer Segments
+
+Jobs to be done:
+
+- What **functional or social** jobs are getting done?
+- What **emotional** jobs?
+- What **basic needs** are you helping your customers satisfy?
+
+Day in the life of the customer:
+
+- Rank each job
+- Crucial or trivial?
+- At what frequency does it occur?
+- Context in which a job is done?
+
+Customer gains:
+
+- Benefits
+- Desires
+- Money?
+- Effort?
+- Time?
+- Delight? Feature or performance?
+- Service? Lower cost or simpler to learn?
+- Social consequences?
+- Measuring success: Cost or performance?
+
+Customer Pains:
+
+- Risks
+- Negative emotions
+- Too costly?
+- Takes too much time?
+- Malfunctioning?
+- Is this problem #47? or one of their top 3 problems?
+- What's keeping your customer awake at night?
+- What barriers are keeping customers from adopting?
+    - too costly
+    - resistance to change
+    - learning curve
+- Fear? Financial? Social?
+
+Customer persona:
+
+- Budget
+- Position / Title
+- Age / Gender
+- Role
+- Motivations
+- Influences
+- Role models
+
+*Continue at 6. Customer Segments, 8. Customer in Context*
