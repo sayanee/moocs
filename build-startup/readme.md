@@ -401,4 +401,31 @@ Customer persona:
 - Influences
 - Role models
 
-*Continue at 6. Customer Segments, 8. Customer in Context*
+Who's the customer in context?
+
+| Users | Influencer | Recommender | Decision Maker | Economic Buyer | Saboteur
+| ------ | ------ | ------ | ------ | ------ |
+| Report Users | Report Users | Line of Business Management | CIO | CFO | Biz. Intelligence group inside
+| Teen | Friends | Friends | Parents | Parents |
+
+How many do you test?
+
+- B2B < B2C
+- Online surveys << In person interviews
+
+2-sided markets:
+
+- Workers / Recruiters: LinkedIn
+- Banks / Merchants: VISA
+- Sellers / Buyers: eBay
+- Readers / Advertisers: The New York Times
+- Searchers / Advertisers: Google
+- Content creators / Advertisers: Facebook
+
+Multiple customer segments:
+
+- Each has its own **value proposition**
+- Each has its own **revenue stream**
+- One segment cannot exist without the other
+
+*Continue at 6. Customer Segments 13. Multiple Customer Segments
