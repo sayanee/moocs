@@ -428,4 +428,65 @@ Multiple customer segments:
 - Each has its own **revenue stream**
 - One segment cannot exist without the other
 
-*Continue at 6. Customer Segments 13. Multiple Customer Segments
+Market types:
+
+1. Existing market
+1. Re-segmented market
+1. New market
+1. Clone market
+
+Market properties:
+
+- Market size
+- Cost of entry
+- Launch type
+- Competitive barriers
+- Positioning
+
+Types of sales depends on the market:
+
+- Sale model
+- Margins
+- Sales cycle
+- Chasm width
+
+Type of financing depends on the market:
+
+- Ongoing capital
+- time to profitability
+
+Customers:
+
+- Needs
+- Adoption
+
+| Market type | Customers | Customer needs | Competitors | Risk | Examples | Chasm | Sales graph
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Existing | Known | Performance | Many | Lack of branding, sales, distribution | Google in Internet search | almost does not exist | linear
+| Re-segmented | Possibly known | Better fit | Many if wrong, few if right | Market and product re-definition | Southwest Airlines in Aviation | Can be big | exponential or tapering off without any growth
+| New | Unknown | Transformational improvement | None | Evangelism and education | Groupon in daily deals market
+| Clone market | Possibly known | Local version | None | Musjudging the local needs | Baidu
+
+Expected time to profitability:
+
+1. Existing markets
+1. Clone markets
+1. Re-segmented markets
+1. New markets
+
+Existing market:
+
+- Incumbents exist!
+- Customers can name the market
+- Customers want / need better performance
+- Usually technology driven
+- Positioning driven by product and how much value customers place on its features
+
+Risks in existing markets on incumbents:
+
+- Network effects of incumbents
+- Incumbents will defend their turf
+- Assuming that incumbents are dumb
+- Incumbents are also innovating
+
+*Continue at 23. New Market*
