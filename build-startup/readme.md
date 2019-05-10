@@ -404,7 +404,7 @@ Customer persona:
 Who's the customer in context?
 
 | Users | Influencer | Recommender | Decision Maker | Economic Buyer | Saboteur
-| ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | Report Users | Report Users | Line of Business Management | CIO | CFO | Biz. Intelligence group inside
 | Teen | Friends | Friends | Parents | Parents |
 
