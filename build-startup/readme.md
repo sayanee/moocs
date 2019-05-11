@@ -9,6 +9,7 @@
 - [3. 4. Business models and customer development](#3-4-business-models-and-customer-development)
 - [5. Value proposition](#5-value-proposition)
 - [6. Customer Segments](#6-customer-segments)
+- [7. Channels](#7-channels)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
