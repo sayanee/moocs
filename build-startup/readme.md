@@ -464,7 +464,7 @@ Customers:
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Existing | Known | Performance | Many | Lack of branding, sales, distribution | Google in Internet search | almost does not exist | linear
 | Re-segmented | Possibly known | Better fit | Many if wrong, few if right | Market and product re-definition | Southwest Airlines in Aviation | Can be big | exponential or tapering off without any growth
-| New | Unknown | Transformational improvement | None | Evangelism and education | Groupon in daily deals market
+| New | Unknown | Transformational improvement | None | Evangelism and education | Groupon in daily deals market | Big gap | initial hype, then huge dip, then possibly exponential
 | Clone market | Possibly known | Local version | None | Musjudging the local needs | Baidu
 
 Expected time to profitability:
@@ -489,4 +489,79 @@ Risks in existing markets on incumbents:
 - Assuming that incumbents are dumb
 - Incumbents are also innovating
 
-*Continue at 23. New Market*
+New market:
+
+- how to move the exponential part of sales graph earlier?
+- assuming sales graph is linear
+- there are no customers, so revenues might flatten for years
+- don't act like existing market by hiring huge sales and marketing
+- premature spending is the killer for startups
+
+**No startup can single-handedly accelerate technology diffusion**
+
+Clone market:
+
+- takes foreign business mode and adapts it to local conditions
+    - language
+    - culture
+    - import restrictions
+    - local control / ownership
+- need a market large enough > 100 million E.g. BRIC
+
+## 7. Channels
+
+How does the product get from our company to the customers?
+
+- Physical channels
+- Web / mobile channels
+
+Types of products:
+
+- Physical products, physical channels
+    - household goods
+    - food
+    - transportation
+- Virtual products, physical channels
+    - health insurance
+    - stocks and bonds
+- Physical products, virtual channel
+    - shoes (Zappos)
+    - books (Amazon)
+    - movies (Netflix)
+    - consumer electronics
+- Virtual products, virtual channels
+    - Social media
+    - Web / mobile apps
+
+Types of channels:
+
+- Direct
+- Indirect
+
+Web distribution channels:
+
+- Dedicated e-commerce E.g. product website
+- Platform app-store E.g. iOS app
+- 2-step distribution E.g. Amazon
+- Aggregator E.g. Lending Tree
+- Social commerce E.g. Facebook, Twitter, Instagram
+- Flash sales E.g. Groupon, Living Social
+
+Physical distribution channel
+
+- OEM E.g. graphics supplier to HP / Apple
+- System Integrator E.g. Cisco selling to ISP
+- Value added reseller
+- Direct sales force E.g. Cars
+- Web / Online sales
+- Dealers E.g. Store front
+- Distributors E.g. food wholesale
+- Retailers aggregate 100s of brands
+
+Which channels can handle most complexity (solution complexity, marketing complexity)?
+
+1. Web E.g. Printer toner on web
+1. Retail
+1. Value added reseller
+1. Direct sales
+1. System Integrators E.g. Defense, Telecom
