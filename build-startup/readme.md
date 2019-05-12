@@ -566,3 +566,23 @@ Which channels can handle most complexity (solution complexity, marketing comple
 1. Value added reseller
 1. Direct sales
 1. System Integrators E.g. Defense, Telecom
+
+Direct sales channel economics:
+
+```
+List price = cost of goods + R&D + Selling costs + Admin cost + profit
+```
+
+Reseller channel economics:
+
+```
+List price = cost of goods + R&D + Selling costs + Admin cost + reseller cost + profit
+```
+
+OEM channel economics:
+
+```
+Revenue = COGS + SGA + Profit + Reseller cost
+```
+
+*Continue with Lesson 8: Customer Relationships*
