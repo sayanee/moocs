@@ -585,4 +585,53 @@ OEM channel economics:
 Revenue = COGS + SGA + Profit + Reseller cost
 ```
 
-*Continue with Lesson 8: Customer Relationships*
+## 8. Customer Relationships
+
+3 parts:
+
+- Get
+- Keep
+- Grow
+
+Questions:
+
+- What's their role?
+- Who are they?
+- How do they buy?
+- What matters?
+
+Get methods - feed the funnel:
+
+- Awareness
+- Interest
+- Consideration
+- Purchase
+
+Types of activities:
+
+1. Paid demand creation activities
+    - PR
+    - advertising
+    - Trade shows
+    - webinars
+    - E-mail / direct mail
+    - Search engine marketing
+1. Earned demand creation activities
+    - Publications in journals
+    - Conferences / speeches
+    - Blogging / Guest articles
+    - Social Media
+
+Keep customer activities  - Physical channel:
+
+- Loyalty programs E.g. Airlines, Credit cards
+- Product updates
+- Customer satisfaction
+
+Grow customers:
+
+- Un-bundling
+- Up-sell
+- Next-sell
+- Cross-sell
+- Referrals
