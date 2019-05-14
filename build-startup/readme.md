@@ -635,3 +635,36 @@ Grow customers:
 - Next-sell
 - Cross-sell
 - Referrals
+
+Get customers (Web channel):
+
+- Acquire - `10,000` clicks for $0.50 per click = $5000
+- Activate - `500` took a trial (`5%` signs up)
+- Pay - `50` actually pays (`10%` or $100 for **Customer Acquisition Cost**)
+
+Customer Acquisition Cost (CAC):
+
+1. PPC (Pay per customer) = `$0.75`
+1. Acquire = `4075`
+1. Activate = `3.75%`
+
+```
+(0.75*4075) $3056 Total paid, 153 (3.75% * 4075) people signed up = $20 PPC
+```
+
+Keep customers: calculate the **Churn**
+
+- `5%` when they stay for `20 months`
+- `1%` when they stay for `100 months` --> More revenue by keeping the churn low
+
+Lifetime value (LTV) - how much will a customer pay through the lifetime?
+
+```
+LTV > CAC
+```
+
+3 short forms:
+
+- PPC **Pay per customer**
+- CAC **Customer acquisition Cost**
+- LTV **Lifetime Value**
