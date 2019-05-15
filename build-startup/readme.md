@@ -10,6 +10,8 @@
 - [5. Value proposition](#5-value-proposition)
 - [6. Customer Segments](#6-customer-segments)
 - [7. Channels](#7-channels)
+- [8. Customer Relationships](#8-customer-relationships)
+- [9. Revenue Model](#9-revenue-model)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -657,10 +659,11 @@ Keep customers: calculate the **Churn**
 - `5%` when they stay for `20 months`
 - `1%` when they stay for `100 months` --> More revenue by keeping the churn low
 
-Lifetime value (LTV) - how much will a customer pay through the lifetime?
+Lifetime value (LTV) - how much will a customer pay your company through the get-keep-grow phases?
 
 ```
 LTV > CAC
+3 > 1 (for Enterprise SaSS)
 ```
 
 3 short forms:
@@ -668,3 +671,26 @@ LTV > CAC
 - PPC **Pay per customer**
 - CAC **Customer acquisition Cost**
 - LTV **Lifetime Value**
+
+## 9. Revenue Model
+
+Common myths:
+
+- ❌ Revenue == Pricing
+- ❌ Pricing == ++Cost
+- ❌ Pricing < Competitor's price
+
+Revenue stream:
+
+- strategy the company uses to **generate cash**
+- from each **customer segment**
+
+Pricing:
+
+- tactics to **set the price**
+- in each **customer segments**
+
+Paying:
+
+- how do customer pay for products today?
+- how much are they currently paying?
