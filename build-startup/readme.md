@@ -694,3 +694,57 @@ Paying:
 
 - how do customer pay for products today?
 - how much are they currently paying?
+
+Types of revenue models:
+
+- **Asset sale** E.g. Cars
+- **Usage fee** E.g. Cloud computing, Cellular usage, electric power
+- **Subscription fee** E.g. SaSS
+- **Renting**
+- **Licensing**
+- **Intermediation fee** E.g. AirBNB
+- **Advertising**
+
+2 types of pricing:
+
+- fixed =
+    - cost + markup
+    - value-based
+    - volume-based
+- dynamic =
+    - negotiable
+    - yield management E.g. Airline / train tickets
+    - real time market
+    - auctions
+
+Common mistake of pricing:
+
+- Pricing on cost + markup instead of...
+- Pricing on value
+
+Market type affects pricing:
+
+- Nature of market now:
+    - pure competition
+    - monopoly
+    - oligopoly
+- How will they react?
+    - what is their product?
+    - what are their cost & prices?
+    - what pricing will make them feel worse?
+
+Single / Multi-sided markets
+
+- Single-sided market:
+    - customer is the user and payer
+    - may care about revenues
+- Multi-sided market:
+    - customer and payers are different
+    - may acquire massive users first, then care about revenue next
+    - but need to be careful about acquiring the right kind of users for the eventual payers
+
+Types of revenue projections:
+
+1. New market: hockey stick graph with initial rise and fall in revenue
+1. Existing market: linear graph
+1. Re-segmented market: initial rise, flat and then rise again
