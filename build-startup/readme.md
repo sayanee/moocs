@@ -748,3 +748,57 @@ Types of revenue projections:
 1. New market: hockey stick graph with initial rise and fall in revenue
 1. Existing market: linear graph
 1. Re-segmented market: initial rise, flat and then rise again
+
+## 9. Partners
+
+Who are they key partners and suppliers needed to make the business work?
+
+Reasons for partnering:
+
+- Shared economics
+- Economics of scale
+- Money and resources
+- Access to customer
+- Access to marketing / branding
+
+What defined a partner?
+
+- shared economics
+- mutual success /failure
+- co-development
+- common customers
+
+Examples:
+
+- Intel Inside: Joint business development
+- Starbucks & Pepsi: Strategic Alliance
+- Apple & Record labels: Strategic Alliance in building the iPod
+- Apple-Foxconn: Suppliers, Joint ventures
+- Fashion week: Coopetition
+- G.E. / SNECMA: Joint Venture, Cooperation
+- Kayak / Expedia / Hipmunk: Traffic partners
+
+Why have partners?
+
+- Faster time to market
+- Broader product offering
+- More efficient use of capital
+- Unique customer knowledge or expertise
+- Access to new market
+
+!! Startup mistake: Needing Strategic alliances and joint partnerships without any mainstream customers in a re-segmented and new market. When do I actually need these partnerships?
+
+Coopetition:
+
+- Trade shows
+- Industry associations
+
+Key suppliers: Use to be cost of goods, instead of partners
+
+- Outsource suppliers
+    - Back office
+    - Supply Chain
+    - Manufacturing
+- Direct suppliers
+    - raw materials
+    - components
