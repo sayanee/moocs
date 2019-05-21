@@ -802,3 +802,39 @@ Key suppliers: Use to be cost of goods, instead of partners
 - Direct suppliers
     - raw materials
     - components
+
+Traffic partners for virtual online channels:
+
+- long-term agreements
+- delivery predictable levels of customers
+- using text-links, with onsite promotions, ads
+- paid per-referral basis
+- cross-referrals
+- exchange emails
+
+Managing partnership risks:
+
+- Impedance mismatch: Startups are not peers! Assymetrical
+- Longest of partners schedule becomes your longest item
+- No clear ownership of customer
+- Products lack vision - products by committee
+- Different underlying objectives in relationships
+- Churn in partners strategy or personnel
+- IP issues
+
+Should I take an investment from a larger company?
+
+- What's in it for me? What's in it for them?
+- What kind of deals they want?
+- Exclusive customer?
+- Sounds like buy us without spending money!
+- Who's the sponsor? What's the motivation from the business side?
+- I want sales, not investments!
+
+Startup partner strategies:
+
+- Don't confuse partners for early evangelists vs. mainstream customers
+- Find the partners that give you an unfair advantage
+    - Large companies matter a lot to you!
+    - But for them, they don't really matter...
+- Partners can be a potential acquirer
