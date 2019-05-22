@@ -12,7 +12,7 @@
 - [7. Channels](#7-channels)
 - [8. Customer Relationships](#8-customer-relationships)
 - [9. Revenue Model](#9-revenue-model)
-- [9. Partners](#9-partners)
+- [10. Partners](#10-partners)
 - [11. Resources, Activities and Cost](#11-resources-activities-and-cost)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -751,7 +751,7 @@ Types of revenue projections:
 1. Existing market: linear graph
 1. Re-segmented market: initial rise, flat and then rise again
 
-## 9. Partners
+## 10. Partners
 
 Who are they key partners and suppliers needed to make the business work?
 
