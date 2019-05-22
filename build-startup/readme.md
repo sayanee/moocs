@@ -12,6 +12,8 @@
 - [7. Channels](#7-channels)
 - [8. Customer Relationships](#8-customer-relationships)
 - [9. Revenue Model](#9-revenue-model)
+- [9. Partners](#9-partners)
+- [11. Resources, Activities and Cost](#11-resources-activities-and-cost)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -838,3 +840,63 @@ Startup partner strategies:
     - Large companies matter a lot to you!
     - But for them, they don't really matter...
 - Partners can be a potential acquirer
+
+## 11. Resources, Activities and Cost
+
+Types of resources:
+
+1. Finances
+    - Raising money: friends, family, crowdfunding, angels,
+    - Bigger funding: venture capital, corporate partners, government grants, business grants
+    - Line of credit
+    - Lease lines
+    - Factoring
+    - Get, Keep, Grow customers
+    - Vendor-Finance
+1. Physical
+    - Manufacturing
+    - Machines
+    - Vehicles
+    - Company facilities: office space, location
+    - Products / Services suppliers
+    - Warehouse and logistics
+    - Many physical goods are capital intensive E.g. Space startup vs software startup
+1. Intellectual
+    - Patents
+    - Customer lists
+    - people
+1. Human
+    - Engineers
+    - Scientists
+
+| Financial resources | Operating | Financing |
+| ------ | ------ | ------ |
+| Friends | | x
+| Family | | x
+| Crowdfunding | | x
+| Lease-lines | x
+| Angels | | x
+| Venture Capital | x | x
+| Factoring | x
+| Vendor-financing | x
+| Corporate partners | x | x
+| Government grants | x | x
+| Business grants | x | x
+
+People resources
+
+- Qualifies employees
+- Teachers: (personal) specific subject
+- Coaches: (personal) specific skill E.g. presentation
+- Mentors: (personal) someone who cares about you
+- Advisors: help advance your company (beyond VCs)
+
+Intellectual Property
+
+| Type | Protectable | Examples
+| ------ | ------ | ------ |
+| Trademark ™️ | Branding | marks, logos, slogans
+| Copyright © | Creative work | software, films, music, websites
+| Trade secrets | Secrets of value | private tech, contacts, formulae
+| Contract | Contract-defined | technology, business info
+| Patent | Inventions | New technology
