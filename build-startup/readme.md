@@ -21,8 +21,8 @@
 
 Readings:
 
-1. Startup Owner's Manual
-1. Business Model Generation
+1. Startup Owner's Manual by Steve Blank
+1. Business Model Generation by Alexander Osterwalder
 
 Download [Business Model Canvas](https://canvanizer.com/downloads/business_model_canvas_poster.pdf)
 
@@ -893,10 +893,20 @@ People resources
 
 Intellectual Property
 
-| Type | Protectable | Examples
-| ------ | ------ | ------ |
-| Trademark ™️ | Branding | marks, logos, slogans
-| Copyright © | Creative work | software, films, music, websites
-| Trade secrets | Secrets of value | private tech, contacts, formulae
+| Type | Protectable | Examples | Usefulness | Protection | Coverage
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Trademark ™️ | Branding | marks, logos, slogans | Prevents others from using similar marks and logos | Lasts as long as you use the mark | Country by country
+| Copyright © | Creative work | software, films, music, website content | Gives right to prevent others from copying, distributing or making derivatives of your work | | Required to sue for infringement
+| Trade secrets | Secrets of value | private tech, contacts, formulae | Info that is kept secret | Lasts as long as you take reasonable steps |
 | Contract | Contract-defined | technology, business info
-| Patent | Inventions | New technology
+| Patent | Inventions | New technology | A government granted monopoly | Lasts for 15-20 years |
+
+Metrics that matter?
+
+- Value proposition
+- Market Type
+- Customer relationships
+- Operating costs
+- Channel
+- Revenue streams
+- Burn rate
