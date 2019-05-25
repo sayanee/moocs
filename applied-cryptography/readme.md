@@ -23,3 +23,15 @@ D: C -> µ
 - Encryption and decryption algorithms can be open
 - Cypher text can be open
 - If the keys are exposed, just generate a new one!
+
+Ideal: Cipher text reveals nothing about the Key or the Message
+
+| A | B | XOR |
+| ------ | ------ | ------ |
+| 0 | 0 | 0
+| 0 | 1 | 1
+| 1 | 0 | 1
+| 1 | 1 | 0
+
+- A xor B xor A == B
+- A xor A == 0
