@@ -55,3 +55,18 @@ Perfect cipher:
 
 - The cipher text provides an attacker with no additional information about the plain text
 - Given any message and cipher text, there is only 1 key
+- Example One-Time Pad
+
+Problems with One-Time Pad:
+
+- Malleable cipher text in channel
+- Impractical keys as long as messages
+- You cannot re-use the keys
+
+Shanon'e Theorem: if a cipher is perfect, it must be impractical!
+
+Lorenz cipher machine:
+
+- `C` = `M xor K`
+- `C'` = `M' xor K`
+- `C xor C'` =` M xor K xor M' xor K` = `M xor M'`
