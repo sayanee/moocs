@@ -70,3 +70,28 @@ Lorenz cipher machine:
 - `C` = `M xor K`
 - `C'` = `M' xor K`
 - `C xor C'` =` M xor K xor M' xor K` = `M xor M'`
+
+Modern crytoanalysis:
+
+- Goal of Cipher: Hide statistical properties of message and key `|k| < |M|`
+- Goal of analyst: Find statistical properties in cipher text to break key / message
+- Mechanical / Mathematical weakness
+- Lots of hard work
+- Motivation helps!
+
+Modern symmetric ciphers:
+
+- stream cipher (1 byte) vs block cipher (64 bits to 128-256 bits)
+- Example of block cipher: **Advanced Encryption Standard** (AES)
+- `Security = Actual number of rounds / Maximum number of "breakable"`
+- Speed - implementing in hardware and software
+- Simplicity
+- Expected cost of brute of attack: 2^127
+- Developed by 2 Belgian crytographers in 1997 during an [open AES selection process](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+
+Advanced Encryption Standard (AES) Rijndael:
+
+- round key xor
+- shifts
+- s-boxes / non-linearity
+- takes advantage of modern computing power
