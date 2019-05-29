@@ -1,6 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Applied Cryptography](#applied-cryptography)
+  - [1. Symmetric ciphers](#1-symmetric-ciphers)
+  - [2. Application of symmetric ciphers](#2-application-of-symmetric-ciphers)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Applied Cryptography
 
-## 1. Perfect Ciphers
+## 1. Symmetric ciphers
 
 - Crypto: Secret
 - Graphy: Writing
@@ -95,3 +105,9 @@ Advanced Encryption Standard (AES) Rijndael:
 - shifts
 - s-boxes / non-linearity
 - takes advantage of modern computing power
+
+## 2. Application of symmetric ciphers
+
+- Encrypt: message to cipher
+- Decrypt: cipher to message
+- Select a random key
