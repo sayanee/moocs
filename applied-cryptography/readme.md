@@ -111,3 +111,11 @@ Advanced Encryption Standard (AES) Rijndael:
 - Encrypt: message to cipher
 - Decrypt: cipher to message
 - Select a random key
+
+What is randomness?
+
+- Measure complexity of a sequence `s`
+- where Kolmogorov Complexity `k(s)` is the length of the shortest possible description of `s`
+- Randomness: `s` is random if `k(s) = |s| + C`
+- For a given sequence `s`, is there a way to compute `k(s)`? NO
+- Berry Paradox
