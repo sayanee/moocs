@@ -119,3 +119,13 @@ What is randomness?
 - Randomness: `s` is random if `k(s) = |s| + C`
 - For a given sequence `s`, is there a way to compute `k(s)`? NO
 - Berry Paradox
+
+Unpredictability
+
+- Statistical test can only show something is non-random
+- How the sequence is generated
+- Physically random events:
+    - Quantum mechanics
+    - Thermal noise
+    - Key presses / mouse moves
+- physical randomness --> pseudo random number generator --> long sequence of random bits
