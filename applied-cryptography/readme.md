@@ -120,12 +120,16 @@ What is randomness?
 - For a given sequence `s`, is there a way to compute `k(s)`? NO
 - Berry Paradox
 
-Unpredictability
+Unpredictability:
 
 - Statistical test can only show something is non-random
 - How the sequence is generated
 - Physically random events:
     - Quantum mechanics
     - Thermal noise
-    - Key presses / mouse moves
+    - Key presses / mouse moves - takes time!
 - physical randomness --> pseudo random number generator --> long sequence of random bits
+
+Cipher block chaining:
+
+- `m0` -> AES -> `c0` xor `m1` -> AES -> `c1` xor `m2` -> AES -> `c2` ...
