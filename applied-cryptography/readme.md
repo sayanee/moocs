@@ -133,3 +133,8 @@ Unpredictability:
 Cipher block chaining:
 
 - `m0` -> AES -> `c0` xor `m1` -> AES -> `c1` xor `m2` -> AES -> `c2` ...
+
+CTR (counter) Mode vs CBC Mode
+
+- CBC con: Always need the previous cipher block
+- CTR pro: Uses a nonce
