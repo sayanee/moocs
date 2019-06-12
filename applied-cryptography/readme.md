@@ -138,3 +138,34 @@ CTR (counter) Mode vs CBC Mode
 
 - CBC con: Always need the previous cipher block
 - CTR pro: Uses a nonce
+
+Security Protocol:
+
+- Involves 2 or more parties
+- Precisely defined sequences of steps
+- Steps are computation and communication
+- Procedure with 2 or more participants
+- Involves secrets
+
+Birthday paradox:
+
+- weak collision resistance
+- strong collision resistance
+
+Hash functions need large outputs:
+
+- `SHA-1`: 160 bits
+- `SHA-2`: 256 or 512 bits
+
+Storing password the WRONG WAYS:
+
+- Storing passwords in clear text that is recoverable
+- Reveals the length of password
+- Reveals if 2 users have the same password
+- If the key is compromised, it reveals all passwords!
+
+Making dictionary attacks harder:
+
+- Train / coerce users to use better passwords
+- Protect encrypted passwords better
+- Add salt
