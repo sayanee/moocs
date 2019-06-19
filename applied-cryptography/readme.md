@@ -169,3 +169,16 @@ Making dictionary attacks harder:
 - Train / coerce users to use better passwords
 - Protect encrypted passwords better
 - Add salt
+
+Hash chain
+
+- Server stores no secrets!
+- Server only stores last key in the hash chain `H^100(s)`
+- S/Key: Server generates hash chain
+- Needs Alice to print out each unique password
+
+Modes of operation:
+
+- CBC
+- CTR
+- CFB
