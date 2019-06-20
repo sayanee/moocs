@@ -182,3 +182,14 @@ Modes of operation:
 - CBC
 - CTR
 - CFB
+
+## 3. Asymmetric ciphers
+
+Impractical to use a symmetric key:
+
+- Share the key physically
+- Keep the key safely
+- Destroy the key when required
+- Create a huge number of pairwise unique shared keys
+- Use a trusted third party
+- Possibility of using Merkel's puzzle
