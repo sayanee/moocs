@@ -192,4 +192,12 @@ Impractical to use a symmetric key:
 - Destroy the key when required
 - Create a huge number of pairwise unique shared keys
 - Use a trusted third party
-- Possibility of using Merkel's puzzle
+- Possibility of using Merkel's puzzle (impractical also!)
+
+Merkel's puzzle:
+
+- Agree on encryption function, security parameters
+- Alice will create many puzzles
+- Bob will randomly choose 1 puzzle to solve
+- Eve will have to solve all the puzzles
+- Will need to have a large number of puzzles
