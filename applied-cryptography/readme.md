@@ -201,3 +201,15 @@ Merkel's puzzle:
 - Bob will randomly choose 1 puzzle to solve
 - Eve will have to solve all the puzzles
 - Will need to have a large number of puzzles
+
+Diffie-Hellman Key Exchange
+
+- Shared: large number `q` and a primitive root of `q`
+- Alice and Bob will obtain the same key
+- Secure against a passive eavesdropper
+
+Finding large primes:
+
+- `q` is a large prime number which is not secret, but different
+- Euclid proved that there are infinite number of primes
+- Probability that a number is prime is `1/ln x`
