@@ -5,6 +5,8 @@
 - [Applied Cryptography](#applied-cryptography)
   - [1. Symmetric ciphers](#1-symmetric-ciphers)
   - [2. Application of symmetric ciphers](#2-application-of-symmetric-ciphers)
+  - [3. Asymmetric ciphers](#3-asymmetric-ciphers)
+  - [4. Asymmetric Cryptosystems](#4-asymmetric-cryptosystems)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -213,3 +215,20 @@ Finding large primes:
 - `q` is a large prime number which is not secret, but different
 - Euclid proved that there are infinite number of primes
 - Probability that a number is prime is `1/ln x`
+
+Tests:
+
+- Fermat's Little Theorum
+- Rabin-Miller Test  
+
+## 4. Asymmetric Cryptosystems
+
+- Symmetric encryption: Key used for encryption and decryption are **same**
+- Asymmetric encryptionL Keys used for encryption and decryption are **different**
+
+Trap door / One-way function:
+
+- easy to compute in one direction
+- difficult to computer in another direction
+
+Totient Function is the number of positive integers less than `n` that are relatively prime to `n`. 
