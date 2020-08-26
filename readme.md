@@ -2,7 +2,8 @@
 
 | Name | Source | Started | Completed | Completion |
 | ------ | ------ | ------ | ------ | ------ |
-| [Applied Cryptography](applied-cryptography) | [Udacity](https://www.udacity.com/course/applied-cryptography--cs387) | 24 May 2019 | 
+| [Writer's workbench](writers-workbench) | [Poynter](https://www.poynter.org/shop/self-directed-course/the-writers-workbench-50-tools-you-can-use/) | 26 August 2020 | 
+| [Applied Cryptography](applied-cryptography) | [Udacity](https://www.udacity.com/course/applied-cryptography--cs387) | 24 May 2019 |
 | [How to Build a Startup](build-startup) by Steve Blank | [Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245) | 2 May 2019 | 24 May 2019 |
 | [Design for Manufacturing Course](dfm) by Dragon Innovation | [YouTube](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a) | 9 April 2019 | 1 May 2019
 | [FreeCAD beginner's tutorial](freecad) | [YouTube](https://www.youtube.com/watch?v=_HEvhclR4-o&list=PL6fZ68Cq3L8k0JhxnIVjZQN26cn9idJrj) | 29 March 2019 |  |
