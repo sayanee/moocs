@@ -2,7 +2,12 @@
 
 | Name | Source | Started | Completed | Completion |
 | ------ | ------ | ------ | ------ | ------ |
-| [Writer's workbench](writers-workbench) | [Poynter](https://www.poynter.org/shop/self-directed-course/the-writers-workbench-50-tools-you-can-use/) | 26 August 2020 | 
+| [Color Grading: Introduction with a Pro Colorist by Fred Trevino](color-grading)] | [Skillshare](https://www.skillshare.com/classes/Color-Grading-Introduction-with-a-Pro-Colorist/970105138?via=custom-lists) | 15 September 2020
+| [Personal Branding: Crafting Your Social Media Presence by Kate Arends, Founder, Wit & Delight](personal-branding) | [Skillshare](https://www.skillshare.com/classes/Personal-Branding-Crafting-Your-Social-Media-Presence/637661219) | 15 September 2020 | 15 September 2020 |
+| [Guide to DaVinci Resolve 16 Video Editing
+](davinci-resolve) by Christopher Navarre | [Skillshare](https://www.skillshare.com/classes/Guide-to-DaVinci-Resolve-16-Video-Editing/335402301) | 26 August 2020 |
+| [Creativity Unleashed: Discover, Hone, and Share Your Voice Online](online-voice) by Nathaniel Drew | [Skillshare](https://www.skillshare.com/classes/Creativity-Unleashed-Discover-Hone-and-Share-Your-Voice-Online/927988375) | 26 August 2020 | 26 August 2020
+| [Writer's workbench](writers-workbench) by Roy Peter Clark | [Poynter](https://www.poynter.org/shop/self-directed-course/the-writers-workbench-50-tools-you-can-use/) | 26 August 2020 | 1 October 2020
 | [Applied Cryptography](applied-cryptography) | [Udacity](https://www.udacity.com/course/applied-cryptography--cs387) | 24 May 2019 |
 | [How to Build a Startup](build-startup) by Steve Blank | [Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245) | 2 May 2019 | 24 May 2019 |
 | [Design for Manufacturing Course](dfm) by Dragon Innovation | [YouTube](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a) | 9 April 2019 | 1 May 2019
