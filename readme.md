@@ -2,6 +2,7 @@
 
 | Name | Source | Started | Completed | Completion |
 | ------ | ------ | ------ | ------ | ------ |
+| [Wireshark: Packet Analysis and Ethical Hacking](wireshark) | [Udemy](https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/) | 20 April 2021 |
 | [Color Grading: Introduction with a Pro Colorist by Fred Trevino](color-grading) | [Skillshare](https://www.skillshare.com/classes/Color-Grading-Introduction-with-a-Pro-Colorist/970105138?via=custom-lists) | 15 September 2020
 | [Personal Branding: Crafting Your Social Media Presence by Kate Arends, Founder, Wit & Delight](personal-branding) | [Skillshare](https://www.skillshare.com/classes/Personal-Branding-Crafting-Your-Social-Media-Presence/637661219) | 15 September 2020 | 15 September 2020 |
 | [Guide to DaVinci Resolve 16 Video Editing](davinci-resolve) by Christopher Navarre | [Skillshare](https://www.skillshare.com/classes/Guide-to-DaVinci-Resolve-16-Video-Editing/335402301) | 26 August 2020 |
