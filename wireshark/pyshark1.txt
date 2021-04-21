@@ -1,0 +1,87 @@
+Packet (Length: 238)
+Layer NULL:
+	Family: IPv6 (30)
+Layer IPV6:
+	0110 .... = Version: 6
+	.... 0000 0000 .... .... .... .... .... = Traffic Class: 0x00 (DSCP: CS0, ECN: Not-ECT)
+	.... 0000 00.. .... .... .... .... .... = Differentiated Services Codepoint: Default (0)
+	.... .... ..00 .... .... .... .... .... = Explicit Congestion Notification: Not ECN-Capable Transport (0)
+	.... .... .... 0011 0000 0010 0000 0000 = Flow Label: 0x30200
+	Payload Length: 194
+	Next Header: UDP (17)
+	Hop Limit: 255
+	Source Address: fe80::464:104c:5914:43bc
+	Destination Address: ff02::fb
+Layer UDP:
+	Source Port: 5353
+	Destination Port: 5353
+	Length: 194
+	Checksum: 0xc1cf [unverified]
+	Checksum Status: Unverified
+	Stream index: 5
+	Timestamps
+	Time since first frame: 124.841260000 seconds
+	Time since previous frame: 124.737665000 seconds
+	UDP payload (186 bytes)
+Layer MDNS:
+	Transaction ID: 0x0000
+	Expert Info (Warning/Protocol): DNS response retransmission. Original response in frame 28
+	DNS response retransmission. Original response in frame 28
+	Severity level: Warning
+	Group: Protocol
+	Flags: 0x8400 Standard query response, No error
+	1... .... .... .... = Response: Message is a response
+	.000 0... .... .... = Opcode: Standard query (0)
+	.... .1.. .... .... = Authoritative: Server is an authority for domain
+	.... ..0. .... .... = Truncated: Message is not truncated
+	.... ...0 .... .... = Recursion desired: Don't do query recursively
+	.... .... 0... .... = Recursion available: Server can't do recursive queries
+	.... .... .0.. .... = Z: reserved (0)
+	.... .... ..0. .... = Answer authenticated: Answer/authority portion was not authenticated by the server
+	.... .... ...0 .... = Non-authenticated data: Unacceptable
+	.... .... .... 0000 = Reply code: No error (0)
+	Questions: 0
+	Answer RRs: 1
+	Authority RRs: 0
+	Additional RRs: 1
+	Answers
+	Name: Sayanee’s MacBook Pro._companion-link._tcp.local
+	Type: TXT (Text strings) (16)
+	.000 0000 0000 0001 = Class: IN (0x0001)
+	1... .... .... .... = Cache flush: True
+	Time to live: 4500 (1 hour, 15 minutes)
+	Data length: 91
+	TXT Length: 22
+	TXT: rpBA=AF:BE:D7:C2:62:26
+	Next Domain Name: Sayanee’s MacBook Pro._companion-link._tcp.local
+	Retransmitted response. Original response in: 28
+	Retransmission: True
+	Sayanee’s MacBook Pro._companion-link._tcp.local: type TXT, class IN, cache flush
+	Additional records
+	Sayanee’s MacBook Pro._companion-link._tcp.local: type NSEC, class IN, cache flush, next domain name Sayanee’s MacBook Pro._companion-link._tcp.local
+	Name: Sayanee’s MacBook Pro._companion-link._tcp.local
+	Type: NSEC (Next Secure) (47)
+	RR type in bit map: TXT (Text strings)
+	RR type in bit map: SRV (Server Selection)
+	.000 0000 0000 0001 = Class: IN (0x0001)
+	1... .... .... .... = Cache flush: True
+	Time to live: 4500 (1 hour, 15 minutes)
+	Data length: 9
+	TXT Length: 17
+	TXT Length: 12
+	TXT Length: 17
+	TXT Length: 7
+	TXT Length: 10
+	TXT: rpAD=3a5f1b223b4b
+	TXT: rpFl=0x20000
+	TXT: rpHN=13985182b0e7
+	TXT: rpMac=0
+	TXT: rpVr=230.1
+
+	TXT Length: 7
+	TXT Length: 10
+	TXT: rpAD=3a5f1b223b4b
+	TXT: rpFl=0x20000
+	TXT: rpHN=13985182b0e7
+	TXT: rpMac=0
+	TXT: rpVr=230.1

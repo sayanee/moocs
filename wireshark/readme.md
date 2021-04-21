@@ -164,7 +164,36 @@ View `*.pcap` file in command line interface.
 
 - `termshark -r localhost.pcap`
 
---> Continue
-- Section 10: Python Wireshark scripting
-- Section 11: Python Wireshark Password Captures
-- Section 23: Port Security
+## Python programming
+
+### Installation
+
+1. `pip3 install pyshark`
+1. Open Python 3 REPL with `python3`
+1. `>>> import pyshark` to acquire the module
+1. `>>> cap = pyshark.FileCapture('localhost.pcapng')`
+1. `>>> print(cap[0])`
+1. `>>> print(cap[1])`
+1. `>>> cap[1].show()` in color
+1. `>>> print(cap[1].ip)` just the IP layer
+
+### Python scripting
+
+In `cap.py` with a website running at `localhost:4000`:
+
+```py
+import pyshark
+capture = pyshark.LiveCapture(interface='lo0')
+for packet in capture.sniff_continuously(packet_count=50):
+    myfile = open('pyshark1.txt','w')
+    myfile.write(str(packet))
+    try:
+        print('Source = ' + packet['ip'].src)
+        print('Destination = ' + packet['ip'].dst)
+    except:
+        pass
+print ('The end')
+exit()
+```
+
+Run `python3 cap.py` from the command line.
